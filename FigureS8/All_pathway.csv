@@ -1,0 +1,774 @@
+Metabolite name,HMDB ID,Category1,Category2,Alignment ID,Terms,Pathway ID,cpd_id,Pathway level 1,Pathway level 2
+1-Methylhistidine,HMDB0000001,Amino Acid,Histidine Metabolism,Meta_208,Histidine metabolism,map00340,C01152,Metabolism,Amino acid metabolism
+1-Methylnicotinamide,HMDB0000699,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism,Meta_124,Nicotinate and nicotinamide metabolism,map00760,C02918,Metabolism,Metabolism of cofactors and vitamins
+1-Methylnicotinamide,HMDB0000699,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism,Meta_124,Bile secretion,map04976,C02918,Organismal Systems,Digestive system
+1-Methylurate,HMDB0003099,Xenobiotics,Xanthine Metabolism,Meta_237,Caffeine metabolism,map00232,C16359,Metabolism,Biosynthesis of other secondary metabolites
+12-HETE,HMDB0006111,Lipid,Eicosanoid,Meta_435,Ovarian steroidogenesis,map04913,C14777,Organismal Systems,Endocrine system
+12-HETE,HMDB0006111,Lipid,Eicosanoid,Meta_435,Aldosterone synthesis and secretion,map04925,C14777,Organismal Systems,Endocrine system
+12-HETE,HMDB0006111,Lipid,Eicosanoid,Meta_435,Arachidonic acid metabolism,map00590,C14777,Metabolism,Lipid metabolism
+13-HODE + 9-HODE,HMDB0004667,Lipid,"Fatty Acid, Monohydroxy",Meta_423,Linoleic acid metabolism,map00591,C14762,Metabolism,Lipid metabolism
+13-HODE + 9-HODE,HMDB0004667,Lipid,"Fatty Acid, Monohydroxy",Meta_423,PPAR signaling pathway,map03320,C14762,Organismal Systems,Endocrine system
+2-Hydroxybutyric Acid,HMDB0000008,Carbohydrate,Propanoate Metabolism,Meta_32,Propanoate metabolism,map00640,C05984,Metabolism,Carbohydrate metabolism
+2-Hydroxyglutaric Acid,HMDB0059655,Carbohydrate,Citrate cycle (TCA cycle),Meta_144,Butanoate metabolism,map00650,C02630,Metabolism,Carbohydrate metabolism
+2-Hydroxyphenylacetic Acid,HMDB0000669,Amino Acid,Phenylalanine Metabolism,Meta_155,Phenylalanine metabolism,map00360,C05852,Metabolism,Amino acid metabolism
+2-Isopropylmalic acid,HMDB0000402,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_216,Pyruvate metabolism,map00620,C02504,Metabolism,Carbohydrate metabolism
+2-Isopropylmalic acid,HMDB0000402,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_216,"Valine, leucine and isoleucine biosynthesis",map00290,C02504,Metabolism,Amino acid metabolism
+2-Methylcitrate/Homocitrate,HMDB0003518,Carbohydrate,Citrate cycle (TCA cycle),Meta_293,Pyruvate metabolism,map00620,C01251,Metabolism,Carbohydrate metabolism
+2-Naphthylamine,HMDB0243964,Xenobiotics,Natural Product/Food/Plant,Meta_133,Metabolism of xenobiotics by cytochrome P450,map00980,C14790,Metabolism,Xenobiotics biodegradation and metabolism
+2-PHENYLACETAMIDE,HMDB0010715,Amino Acid,Phenylalanine Metabolism,Meta_122,Phenylalanine metabolism,map00360,C02505,Metabolism,Amino acid metabolism
+3-Hydroxyanthranilic Acid,HMDB0001476,Amino Acid,Tryptophan Metabolism,Meta_161,Tryptophan metabolism,map00380,C00632,Metabolism,Amino acid metabolism
+3-Hydroxybutyric Acid,HMDB0000011,Lipid,Ketone Bodies,Meta_33,cAMP signaling pathway,map04024,C01089,Environmental Information Processing,Signal transduction
+3-Hydroxybutyric Acid,HMDB0000011,Lipid,Ketone Bodies,Meta_33,Butanoate metabolism,map00650,C01089,Metabolism,Carbohydrate metabolism
+3-Indoleacetonitrile,HMDB0006524,Amino Acid,Tryptophan Metabolism,Meta_164,Tryptophan metabolism,map00380,C02938,Metabolism,Amino acid metabolism
+3-Methyl-2-Oxobutyrate,HMDB0000019,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_50,Lipoic acid metabolism,map00785,C00141,Metabolism,Metabolism of cofactors and vitamins
+3-Methyl-2-Oxobutyrate,HMDB0000019,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_50,"Valine, leucine and isoleucine degradation",map00280,C00141,Metabolism,Amino acid metabolism
+3-Methyl-2-Oxobutyrate,HMDB0000019,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_50,"Valine, leucine and isoleucine biosynthesis",map00290,C00141,Metabolism,Amino acid metabolism
+3-Methyl-2-Oxobutyrate,HMDB0000019,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_50,Pantothenate and CoA biosynthesis,map00770,C00141,Metabolism,Metabolism of cofactors and vitamins
+3-Methyl-2-Oxovaleric Acid,HMDB0000491,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_86,"Valine, leucine and isoleucine degradation",map00280,C00671,Metabolism,Amino acid metabolism
+3-Methyl-2-Oxovaleric Acid,HMDB0000491,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_86,Lipoic acid metabolism,map00785,C00671,Metabolism,Metabolism of cofactors and vitamins
+3-Methyl-2-Oxovaleric Acid,HMDB0000491,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_86,"Valine, leucine and isoleucine biosynthesis",map00290,C00671,Metabolism,Amino acid metabolism
+3-Methylindole,HMDB0000466,Xenobiotics,Natural Product/Food/Plant,Meta_105,Tryptophan metabolism,map00380,C08313,Metabolism,Amino acid metabolism
+3-Methylxanthine,HMDB0001886,Xenobiotics,Xanthine Metabolism,Meta_199,Caffeine metabolism,map00232,C16357,Metabolism,Biosynthesis of other secondary metabolites
+3-Sulfo-L-Alanine,HMDB0002757,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_201,Cysteine and methionine metabolism,map00270,C00506,Metabolism,Amino acid metabolism
+3-Sulfo-L-Alanine,HMDB0002757,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_201,Neuroactive ligand-receptor interaction,map04080,C00506,Environmental Information Processing,Signaling molecules and interaction
+3-Sulfo-L-Alanine,HMDB0002757,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_201,Taurine and hypotaurine metabolism,map00430,C00506,Metabolism,Metabolism of other amino acids
+4-aminobenzoic acid,HMDB0001392,Xenobiotics,Benzoate Metabolism,Meta_70,Folate biosynthesis,map00790,C00568,Metabolism,Metabolism of cofactors and vitamins
+4-methyl-2-oxopentanoate,HMDB0000695,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_85,Lipoic acid metabolism,map00785,C00233,Metabolism,Metabolism of cofactors and vitamins
+4-methyl-2-oxopentanoate,HMDB0000695,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_85,"Valine, leucine and isoleucine degradation",map00280,C00233,Metabolism,Amino acid metabolism
+4-methyl-2-oxopentanoate,HMDB0000695,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_85,"Valine, leucine and isoleucine biosynthesis",map00290,C00233,Metabolism,Amino acid metabolism
+5-Hydroxy-L-Tryptophan,HMDB0000472,Amino Acid,Tryptophan Metabolism,Meta_316,Tryptophan metabolism,map00380,C00643,Metabolism,Amino acid metabolism
+5-Hydroxy-L-Tryptophan,HMDB0000472,Amino Acid,Tryptophan Metabolism,Meta_316,Serotonergic synapse,map04726,C00643,Organismal Systems,Nervous system
+"5,6-Dihydrouracil",HMDB0000076,Nucleotide,"Pyrimidine Metabolism, Uracil containing",Meta_51,beta-Alanine metabolism,map00410,C00429,Metabolism,Metabolism of other amino acids
+"5,6-Dihydrouracil",HMDB0000076,Nucleotide,"Pyrimidine Metabolism, Uracil containing",Meta_51,Pantothenate and CoA biosynthesis,map00770,C00429,Metabolism,Metabolism of cofactors and vitamins
+"5,6-Dihydrouracil",HMDB0000076,Nucleotide,"Pyrimidine Metabolism, Uracil containing",Meta_51,Pyrimidine metabolism,map00240,C00429,Metabolism,Nucleotide metabolism
+9-HODE,HMDB0004670,Lipid,Fatty Acid Metabolism (Linolenic acid metabolism),Meta_424,PPAR signaling pathway,map03320,C14767,Organismal Systems,Endocrine system
+9-HODE,HMDB0004670,Lipid,Fatty Acid Metabolism (Linolenic acid metabolism),Meta_424,Linoleic acid metabolism,map00591,C14767,Metabolism,Lipid metabolism
+Acetoacetic Acid,HMDB0000060,Lipid,Ketone Bodies,Meta_26,Lysine degradation,map00310,C00164,Metabolism,Amino acid metabolism
+Acetoacetic Acid,HMDB0000060,Lipid,Ketone Bodies,Meta_26,Butanoate metabolism,map00650,C00164,Metabolism,Carbohydrate metabolism
+Acetoacetic Acid,HMDB0000060,Lipid,Ketone Bodies,Meta_26,Tyrosine metabolism,map00350,C00164,Metabolism,Amino acid metabolism
+Acetoacetic Acid,HMDB0000060,Lipid,Ketone Bodies,Meta_26,"Valine, leucine and isoleucine degradation",map00280,C00164,Metabolism,Amino acid metabolism
+Acetylcholine,HMDB0000895,Lipid,Fatty Acid Metabolism (Acyl Choline),Meta_141,Glycerophospholipid metabolism,map00564,C01996,Metabolism,Lipid metabolism
+Acetylcholine,HMDB0000895,Lipid,Fatty Acid Metabolism (Acyl Choline),Meta_141,Regulation of actin cytoskeleton,map04810,C01996,Cellular Processes,Cell motility
+Acetylcholine,HMDB0000895,Lipid,Fatty Acid Metabolism (Acyl Choline),Meta_141,Pancreatic secretion,map04972,C01996,Organismal Systems,Digestive system
+Acetylcholine,HMDB0000895,Lipid,Fatty Acid Metabolism (Acyl Choline),Meta_141,Synaptic vesicle cycle,map04721,C01996,Organismal Systems,Nervous system
+Acetylcholine,HMDB0000895,Lipid,Fatty Acid Metabolism (Acyl Choline),Meta_141,Bile secretion,map04976,C01996,Organismal Systems,Digestive system
+Acetylcholine,HMDB0000895,Lipid,Fatty Acid Metabolism (Acyl Choline),Meta_141,Neuroactive ligand-receptor interaction,map04080,C01996,Environmental Information Processing,Signaling molecules and interaction
+Acetylcholine,HMDB0000895,Lipid,Fatty Acid Metabolism (Acyl Choline),Meta_141,Cholinergic synapse,map04725,C01996,Organismal Systems,Nervous system
+Acetylcholine,HMDB0000895,Lipid,Fatty Acid Metabolism (Acyl Choline),Meta_141,Insulin secretion,map04911,C01996,Organismal Systems,Endocrine system
+Acetylcholine,HMDB0000895,Lipid,Fatty Acid Metabolism (Acyl Choline),Meta_141,cAMP signaling pathway,map04024,C01996,Environmental Information Processing,Signal transduction
+Acetylcholine,HMDB0000895,Lipid,Fatty Acid Metabolism (Acyl Choline),Meta_141,Gastric acid secretion,map04971,C01996,Organismal Systems,Digestive system
+Acetylcholine,HMDB0000895,Lipid,Fatty Acid Metabolism (Acyl Choline),Meta_141,Taste transduction,map04742,C01996,Organismal Systems,Sensory system
+Acetylcholine,HMDB0000895,Lipid,Fatty Acid Metabolism (Acyl Choline),Meta_141,Salivary secretion,map04970,C01996,Organismal Systems,Digestive system
+Acetylcholine,HMDB0000895,Lipid,Fatty Acid Metabolism (Acyl Choline),Meta_141,Nicotine addiction,map05033,C01996,Human Diseases,Substance dependence
+Acetylcholine,HMDB0000895,Lipid,Fatty Acid Metabolism (Acyl Choline),Meta_141,Pathways of neurodegeneration - multiple diseases,map05022,C01996,Human Diseases,Neurodegenerative disease
+Aconitic Acid,HMDB0000072,Carbohydrate,Citrate cycle (TCA cycle),Meta_212,Glyoxylate and dicarboxylate metabolism,map00630,C00417,Metabolism,Carbohydrate metabolism
+Aconitic Acid,HMDB0000072,Carbohydrate,Citrate cycle (TCA cycle),Meta_212,Citrate cycle (TCA cycle),map00020,C00417,Metabolism,Carbohydrate metabolism
+Adenosine,HMDB0000050,Nucleotide,"Purine Metabolism, Adenine containing",Meta_390,Neuroactive ligand-receptor interaction,map04080,C00212,Environmental Information Processing,Signaling molecules and interaction
+Adenosine,HMDB0000050,Nucleotide,"Purine Metabolism, Adenine containing",Meta_390,Sphingolipid signaling pathway,map04071,C00212,Environmental Information Processing,Signal transduction
+Adenosine,HMDB0000050,Nucleotide,"Purine Metabolism, Adenine containing",Meta_390,Renin secretion,map04924,C00212,Organismal Systems,Endocrine system
+Adenosine,HMDB0000050,Nucleotide,"Purine Metabolism, Adenine containing",Meta_390,Alcoholism,map05034,C00212,Human Diseases,Substance dependence
+Adenosine,HMDB0000050,Nucleotide,"Purine Metabolism, Adenine containing",Meta_390,Vascular smooth muscle contraction,map04270,C00212,Organismal Systems,Circulatory system
+Adenosine,HMDB0000050,Nucleotide,"Purine Metabolism, Adenine containing",Meta_390,Purine metabolism,map00230,C00212,Metabolism,Nucleotide metabolism
+Adenosine,HMDB0000050,Nucleotide,"Purine Metabolism, Adenine containing",Meta_390,ABC transporters,map02010,C00212,Environmental Information Processing,Membrane transport
+Adenosine,HMDB0000050,Nucleotide,"Purine Metabolism, Adenine containing",Meta_390,cAMP signaling pathway,map04024,C00212,Environmental Information Processing,Signal transduction
+Adenosine,HMDB0000050,Nucleotide,"Purine Metabolism, Adenine containing",Meta_390,Regulation of lipolysis in adipocytes,map04923,C00212,Organismal Systems,Endocrine system
+Adenosine,HMDB0000050,Nucleotide,"Purine Metabolism, Adenine containing",Meta_390,Morphine addiction,map05032,C00212,Human Diseases,Substance dependence
+Adenosine,HMDB0000050,Nucleotide,"Purine Metabolism, Adenine containing",Meta_390,Parkinson disease,map05012,C00212,Human Diseases,Neurodegenerative disease
+Adenosine,HMDB0000050,Nucleotide,"Purine Metabolism, Adenine containing",Meta_390,cGMP-PKG signaling pathway,map04022,C00212,Environmental Information Processing,Signal transduction
+ALLOSE,HMDB0001151,Carbohydrate,Polysaccharides and Oligosaccharides,Meta_182,Fructose and mannose metabolism,map00051,C01487,Metabolism,Carbohydrate metabolism
+ALLOSE,HMDB0001151,Carbohydrate,Polysaccharides and Oligosaccharides,Meta_182,ABC transporters,map02010,C01487,Environmental Information Processing,Membrane transport
+Allysine,HMDB0001263,Amino Acid,Lysine Metabolism,Meta_139,Lysine degradation,map00310,C04076,Metabolism,Amino acid metabolism
+Alpha-Aminobutyric Acid,HMDB0000452,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_29,Cysteine and methionine metabolism,map00270,C02356,Metabolism,Amino acid metabolism
+Alpha-Ketobutyrate,HMDB0000005,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_25,"Valine, leucine and isoleucine biosynthesis",map00290,C00109,Metabolism,Amino acid metabolism
+Alpha-Ketobutyrate,HMDB0000005,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_25,Cysteine and methionine metabolism,map00270,C00109,Metabolism,Amino acid metabolism
+Alpha-Ketobutyrate,HMDB0000005,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_25,"Glycine, serine and threonine metabolism",map00260,C00109,Metabolism,Amino acid metabolism
+Alpha-Ketobutyrate,HMDB0000005,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_25,Propanoate metabolism,map00640,C00109,Metabolism,Carbohydrate metabolism
+Alpha/Gamma-Linolenic Acid (C18:3n3 or n6),HMDB0001388,Lipid,Long Chain Fatty Acid,Meta_400,Biosynthesis of unsaturated fatty acids,map01040,C06427,Metabolism,Lipid metabolism
+Alpha/Gamma-Linolenic Acid (C18:3n3 or n6),HMDB0001388,Lipid,Long Chain Fatty Acid,Meta_400,alpha-Linolenic acid metabolism,map00592,C06427,Metabolism,Lipid metabolism
+Anthranilate,HMDB0001123,Amino Acid,Tryptophan Metabolism,Meta_71,Tryptophan metabolism,map00380,C00108,Metabolism,Amino acid metabolism
+Anthranilate,HMDB0001123,Amino Acid,Tryptophan Metabolism,Meta_71,"Phenylalanine, tyrosine and tryptophan biosynthesis",map00400,C00108,Metabolism,Amino acid metabolism
+Arachidate (C20:0),HMDB0002212,Lipid,Long Chain Fatty Acid,Meta_445,Biosynthesis of unsaturated fatty acids,map01040,C06425,Metabolism,Lipid metabolism
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,Inflammatory mediator regulation of TRP channels,map04750,C00219,Organismal Systems,Sensory system
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,GnRH signaling pathway,map04912,C00219,Organismal Systems,Endocrine system
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,Fc epsilon RI signaling pathway,map04664,C00219,Organismal Systems,Immune system
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,Necroptosis,map04217,C00219,Cellular Processes,Cell growth and death
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,Retrograde endocannabinoid signaling,map04723,C00219,Organismal Systems,Nervous system
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,Ferroptosis,map04216,C00219,Cellular Processes,Cell growth and death
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,Ovarian steroidogenesis,map04913,C00219,Organismal Systems,Endocrine system
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,Long-term depression,map04730,C00219,Organismal Systems,Nervous system
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,Vascular smooth muscle contraction,map04270,C00219,Organismal Systems,Circulatory system
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,Oxytocin signaling pathway,map04921,C00219,Organismal Systems,Endocrine system
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,Platelet activation,map04611,C00219,Organismal Systems,Immune system
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,Fc gamma R-mediated phagocytosis,map04666,C00219,Organismal Systems,Immune system
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,Regulation of lipolysis in adipocytes,map04923,C00219,Organismal Systems,Endocrine system
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,Amoebiasis,map05146,C00219,Human Diseases,Infectious disease: parasitic
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,Biosynthesis of unsaturated fatty acids,map01040,C00219,Metabolism,Lipid metabolism
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,Aldosterone synthesis and secretion,map04925,C00219,Organismal Systems,Endocrine system
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,Linoleic acid metabolism,map00591,C00219,Metabolism,Lipid metabolism
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,Arachidonic acid metabolism,map00590,C00219,Metabolism,Lipid metabolism
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,Leishmaniasis,map05140,C00219,Human Diseases,Infectious disease: parasitic
+Arachidonic Acid (C20:4n6),HMDB0001043,Lipid,Long Chain Fatty Acid,Meta_436,Serotonergic synapse,map04726,C00219,Organismal Systems,Nervous system
+"Bilirubin (Z,Z)",HMDB0000054,Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism,Meta_591,Bile secretion,map04976,C00486,Organismal Systems,Digestive system
+Biotin,HMDB0000030,Cofactors and Vitamins,Vitamin B7 Metabolism,Meta_355,Biotin metabolism,map00780,C00120,Metabolism,Metabolism of cofactors and vitamins
+Biotin,HMDB0000030,Cofactors and Vitamins,Vitamin B7 Metabolism,Meta_355,Vitamin digestion and absorption,map04977,C00120,Organismal Systems,Digestive system
+Biotin,HMDB0000030,Cofactors and Vitamins,Vitamin B7 Metabolism,Meta_355,ABC transporters,map02010,C00120,Environmental Information Processing,Membrane transport
+Caffeine,HMDB0001847,Xenobiotics,Xanthine Metabolism,Meta_278,Caffeine metabolism,map00232,C07481,Metabolism,Biosynthesis of other secondary metabolites
+Carnitine,HMDB0000062,Lipid,Fatty Acid Metabolism (Acyl Carnitine),Meta_187,Diabetic cardiomyopathy,map05415,C00318,Human Diseases,Cardiovascular disease
+Carnitine,HMDB0000062,Lipid,Fatty Acid Metabolism (Acyl Carnitine),Meta_187,Bile secretion,map04976,C00318,Organismal Systems,Digestive system
+Carnitine,HMDB0000062,Lipid,Fatty Acid Metabolism (Acyl Carnitine),Meta_187,Thermogenesis,map04714,C00318,Organismal Systems,Environmental adaptation
+Carnosine,HMDB0000033,Peptide,Hybrid peptide,Meta_324,Histidine metabolism,map00340,C00386,Metabolism,Amino acid metabolism
+Carnosine,HMDB0000033,Peptide,Hybrid peptide,Meta_324,beta-Alanine metabolism,map00410,C00386,Metabolism,Metabolism of other amino acids
+Chenodeoxycholic Acid,HMDB0000518,Lipid,Bile Acid,Meta_517,Primary bile acid biosynthesis,map00120,C02528,Metabolism,Lipid metabolism
+Chenodeoxycholic Acid,HMDB0000518,Lipid,Bile Acid,Meta_517,Bile secretion,map04976,C02528,Organismal Systems,Digestive system
+Cholesterol,HMDB0000067,Lipid,Sterol,Meta_480,Ovarian steroidogenesis,map04913,C00187,Organismal Systems,Endocrine system
+Cholesterol,HMDB0000067,Lipid,Sterol,Meta_480,Cholesterol metabolism,map04979,C00187,Organismal Systems,Digestive system
+Cholesterol,HMDB0000067,Lipid,Sterol,Meta_480,Vitamin digestion and absorption,map04977,C00187,Organismal Systems,Digestive system
+Cholesterol,HMDB0000067,Lipid,Sterol,Meta_480,Lipid and atherosclerosis,map05417,C00187,Human Diseases,Cardiovascular disease
+Cholesterol,HMDB0000067,Lipid,Sterol,Meta_480,Basal cell carcinoma,map05217,C00187,Human Diseases,Cancer: specific types
+Cholesterol,HMDB0000067,Lipid,Sterol,Meta_480,Primary bile acid biosynthesis,map00120,C00187,Metabolism,Lipid metabolism
+Cholesterol,HMDB0000067,Lipid,Sterol,Meta_480,Fat digestion and absorption,map04975,C00187,Organismal Systems,Digestive system
+Cholesterol,HMDB0000067,Lipid,Sterol,Meta_480,Bile secretion,map04976,C00187,Organismal Systems,Digestive system
+Cholesterol,HMDB0000067,Lipid,Sterol,Meta_480,Steroid hormone biosynthesis,map00140,C00187,Metabolism,Lipid metabolism
+Cholesterol,HMDB0000067,Lipid,Sterol,Meta_480,Pathways in cancer,map05200,C00187,Human Diseases,Cancer: overview
+Cholesterol,HMDB0000067,Lipid,Sterol,Meta_480,Aldosterone synthesis and secretion,map04925,C00187,Organismal Systems,Endocrine system
+Cholesterol,HMDB0000067,Lipid,Sterol,Meta_480,Cushing syndrome,map04934,C00187,Human Diseases,Endocrine and metabolic disease
+Cholesterol,HMDB0000067,Lipid,Sterol,Meta_480,Cortisol synthesis and secretion,map04927,C00187,Organismal Systems,Endocrine system
+Cholesterol,HMDB0000067,Lipid,Sterol,Meta_480,Steroid biosynthesis,map00100,C00187,Metabolism,Lipid metabolism
+Cholic Acid,HMDB0000619,Lipid,Bile Acid,Meta_498,Bile secretion,map04976,C00695,Organismal Systems,Digestive system
+Cholic Acid,HMDB0000619,Lipid,Bile Acid,Meta_498,Primary bile acid biosynthesis,map00120,C00695,Metabolism,Lipid metabolism
+Choline,HMDB0000097,Lipid,Glycerolipid and Phospholipid Metabolism,Meta_36,Bile secretion,map04976,C00114,Organismal Systems,Digestive system
+Choline,HMDB0000097,Lipid,Glycerolipid and Phospholipid Metabolism,Meta_36,Glycerophospholipid metabolism,map00564,C00114,Metabolism,Lipid metabolism
+Choline,HMDB0000097,Lipid,Glycerolipid and Phospholipid Metabolism,Meta_36,"Glycine, serine and threonine metabolism",map00260,C00114,Metabolism,Amino acid metabolism
+Choline,HMDB0000097,Lipid,Glycerolipid and Phospholipid Metabolism,Meta_36,ABC transporters,map02010,C00114,Environmental Information Processing,Membrane transport
+Choline,HMDB0000097,Lipid,Glycerolipid and Phospholipid Metabolism,Meta_36,Cholinergic synapse,map04725,C00114,Organismal Systems,Nervous system
+Choline,HMDB0000097,Lipid,Glycerolipid and Phospholipid Metabolism,Meta_36,Choline metabolism in cancer,map05231,C00114,Human Diseases,Cancer: overview
+Citicoline,HMDB0001413,Xenobiotics,Drug,Meta_352,Glycerophospholipid metabolism,map00564,C00307,Metabolism,Lipid metabolism
+Citicoline,HMDB0001413,Xenobiotics,Drug,Meta_352,Choline metabolism in cancer,map05231,C00307,Human Diseases,Cancer: overview
+Citraconic Acid,HMDB0000634,Lipid,"Fatty Acid, Dicarboxylate",Meta_84,"Valine, leucine and isoleucine biosynthesis",map00290,C02226,Metabolism,Amino acid metabolism
+Citric Acid/Isocitric Acid,HMDB0000193,Carbohydrate,Citrate cycle (TCA cycle),Meta_269,Central carbon metabolism in cancer,map05230,C00311,Human Diseases,Cancer: overview
+Citric Acid/Isocitric Acid,HMDB0000193,Carbohydrate,Citrate cycle (TCA cycle),Meta_269,Citrate cycle (TCA cycle),map00020,C00311,Metabolism,Carbohydrate metabolism
+Citric Acid/Isocitric Acid,HMDB0000193,Carbohydrate,Citrate cycle (TCA cycle),Meta_269,Glucagon signaling pathway,map04922,C00311,Organismal Systems,Endocrine system
+Citric Acid/Isocitric Acid,HMDB0000193,Carbohydrate,Citrate cycle (TCA cycle),Meta_269,Glyoxylate and dicarboxylate metabolism,map00630,C00311,Metabolism,Carbohydrate metabolism
+Citrulline,HMDB0000904,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_224,Arginine biosynthesis,map00220,C00327,Metabolism,Amino acid metabolism
+CMP,HMDB0000095,Nucleotide,"Pyrimidine Metabolism, Cytidine containing",Meta_456,Pyrimidine metabolism,map00240,C00055,Metabolism,Nucleotide metabolism
+Corticosterone,HMDB0001547,Lipid,Corticosteroids,Meta_468,Steroid hormone biosynthesis,map00140,C02140,Metabolism,Lipid metabolism
+Corticosterone,HMDB0001547,Lipid,Corticosteroids,Meta_468,Aldosterone synthesis and secretion,map04925,C02140,Organismal Systems,Endocrine system
+Corticosterone,HMDB0001547,Lipid,Corticosteroids,Meta_468,Prion disease,map05020,C02140,Human Diseases,Neurodegenerative disease
+Corticosterone,HMDB0001547,Lipid,Corticosteroids,Meta_468,Regulation of lipolysis in adipocytes,map04923,C02140,Organismal Systems,Endocrine system
+Cortisol,HMDB0000063,Lipid,Corticosteroids,Meta_496,Pathways in cancer,map05200,C00735,Human Diseases,Cancer: overview
+Cortisol,HMDB0000063,Lipid,Corticosteroids,Meta_496,Prostate cancer,map05215,C00735,Human Diseases,Cancer: specific types
+Cortisol,HMDB0000063,Lipid,Corticosteroids,Meta_496,Steroid hormone biosynthesis,map00140,C00735,Metabolism,Lipid metabolism
+Cortisol,HMDB0000063,Lipid,Corticosteroids,Meta_496,Neuroactive ligand-receptor interaction,map04080,C00735,Environmental Information Processing,Signaling molecules and interaction
+Cortisol,HMDB0000063,Lipid,Corticosteroids,Meta_496,Aldosterone-regulated sodium reabsorption,map04960,C00735,Organismal Systems,Excretory system
+Cortisol,HMDB0000063,Lipid,Corticosteroids,Meta_496,Cortisol synthesis and secretion,map04927,C00735,Organismal Systems,Endocrine system
+Cortisol,HMDB0000063,Lipid,Corticosteroids,Meta_496,Bile secretion,map04976,C00735,Organismal Systems,Digestive system
+Cortisol,HMDB0000063,Lipid,Corticosteroids,Meta_496,Cushing syndrome,map04934,C00735,Human Diseases,Endocrine and metabolic disease
+Cortisone,HMDB0002802,Lipid,Corticosteroids,Meta_472,Aldosterone-regulated sodium reabsorption,map04960,C00762,Organismal Systems,Excretory system
+Cortisone,HMDB0002802,Lipid,Corticosteroids,Meta_472,Prostate cancer,map05215,C00762,Human Diseases,Cancer: specific types
+Cortisone,HMDB0002802,Lipid,Corticosteroids,Meta_472,Steroid hormone biosynthesis,map00140,C00762,Metabolism,Lipid metabolism
+Cortisone,HMDB0002802,Lipid,Corticosteroids,Meta_472,Pathways in cancer,map05200,C00762,Human Diseases,Cancer: overview
+Creatine,HMDB0000064,Amino Acid,Creatine Metabolism,Meta_104,"Glycine, serine and threonine metabolism",map00260,C00300,Metabolism,Amino acid metabolism
+Creatine,HMDB0000064,Amino Acid,Creatine Metabolism,Meta_104,Arginine and proline metabolism,map00330,C00300,Metabolism,Amino acid metabolism
+Creatinine,HMDB0000562,Amino Acid,Creatine Metabolism,Meta_46,Arginine and proline metabolism,map00330,C00791,Metabolism,Amino acid metabolism
+Cystine,HMDB0000192,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_339,Ferroptosis,map04216,C00491,Cellular Processes,Cell growth and death
+Cystine,HMDB0000192,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_339,ABC transporters,map02010,C00491,Environmental Information Processing,Membrane transport
+Cystine,HMDB0000192,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_339,Cysteine and methionine metabolism,map00270,C00491,Metabolism,Amino acid metabolism
+Cystine,HMDB0000192,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_339,Protein digestion and absorption,map04974,C00491,Organismal Systems,Digestive system
+Cytosine,HMDB0000630,Nucleotide,"Pyrimidine Metabolism, Cytidine containing",Meta_43,Pyrimidine metabolism,map00240,C00380,Metabolism,Nucleotide metabolism
+D-Gluconic Acid,HMDB0000625,Carbohydrate,Pentose phosphate pathway,Meta_276,Pentose phosphate pathway,map00030,C00257,Metabolism,Carbohydrate metabolism
+Decanoic Acid (C10:0),HMDB0000511,Lipid,Medium Chain Fatty Acid,Meta_209,Fatty acid biosynthesis,map00061,C01571,Metabolism,Lipid metabolism
+DEHP,HMDB0249243,Xenobiotics,Chemical,Meta_504,Chemical carcinogenesis - receptor activation,map05207,C03690,Human Diseases,Cancer: overview
+Dehydroepiandrosterone Sulfate (DHEA-S),HMDB0001032,Lipid,Androgenic Steroids,Meta_475,Steroid hormone biosynthesis,map00140,C04555,Metabolism,Lipid metabolism
+Dehydroepiandrosterone Sulfate (DHEA-S),HMDB0001032,Lipid,Androgenic Steroids,Meta_475,Bile secretion,map04976,C04555,Organismal Systems,Digestive system
+Deoxycholic Acid,HMDB0000626,Lipid,Bile Acid,Meta_488,Bile secretion,map04976,C04483,Organismal Systems,Digestive system
+Deoxyribose,HMDB0003224,Carbohydrate,Pentose phosphate pathway,Meta_109,Pentose phosphate pathway,map00030,C01801,Metabolism,Carbohydrate metabolism
+Dimethyl Sulfoxide,HMDB0002151,Xenobiotics,Chemical,Meta_7,Sulfur metabolism,map00920,C11143,Metabolism,Energy metabolism
+Docosahexaenoic Acid (C22:6n3 DHA),HMDB0002183,Lipid,Long Chain Fatty Acid,Meta_460,Biosynthesis of unsaturated fatty acids,map01040,C06429,Metabolism,Lipid metabolism
+Docosapentaenoic Acid (C22:5n6 DPA),HMDB0006528,Lipid,Long Chain Fatty Acid,Meta_461,Biosynthesis of unsaturated fatty acids,map01040,C16513,Metabolism,Lipid metabolism
+Dodecanoic Acid (C12:0),HMDB0000638,Lipid,Medium Chain Fatty Acid,Meta_283,Fatty acid biosynthesis,map00061,C02679,Metabolism,Lipid metabolism
+dTMP,HMDB0001227,Nucleotide,"Pyrimidine Metabolism, Thymine containing",Meta_455,Pyrimidine metabolism,map00240,C00364,Metabolism,Nucleotide metabolism
+dTMP,HMDB0001227,Nucleotide,"Pyrimidine Metabolism, Thymine containing",Meta_455,Antifolate resistance,map01523,C00364,Human Diseases,Drug resistance: antineoplastic
+Eicosadienoic Acid (C20:2n6),HMDB0005060,Lipid,Long Chain Fatty Acid,Meta_439,Biosynthesis of unsaturated fatty acids,map01040,C16525,Metabolism,Lipid metabolism
+Eicosapentaenoic Acid (C20:5n3 EPA),HMDB0001999,Lipid,Long Chain Fatty Acid,Meta_434,Biosynthesis of unsaturated fatty acids,map01040,C06428,Metabolism,Lipid metabolism
+Eicosatrienoic Acid (C20:3n3),HMDB0002925,Lipid,Long Chain Fatty Acid,Meta_438,Linoleic acid metabolism,map00591,C03242,Metabolism,Lipid metabolism
+Eicosatrienoic Acid (C20:3n3),HMDB0002925,Lipid,Long Chain Fatty Acid,Meta_438,Biosynthesis of unsaturated fatty acids,map01040,C03242,Metabolism,Lipid metabolism
+Erythrose-4-Phosphate,HMDB0001321,Carbohydrate,Pentose phosphate pathway,Meta_282,"Phenylalanine, tyrosine and tryptophan biosynthesis",map00400,C00279,Metabolism,Amino acid metabolism
+Erythrose-4-Phosphate,HMDB0001321,Carbohydrate,Pentose phosphate pathway,Meta_282,Pentose phosphate pathway,map00030,C00279,Metabolism,Carbohydrate metabolism
+Erythrose-4-Phosphate,HMDB0001321,Carbohydrate,Pentose phosphate pathway,Meta_282,Vitamin B6 metabolism,map00750,C00279,Metabolism,Metabolism of cofactors and vitamins
+Fumaric Acid,HMDB0000134,Carbohydrate,Citrate cycle (TCA cycle),Meta_47,Arginine biosynthesis,map00220,C00122,Metabolism,Amino acid metabolism
+Fumaric Acid,HMDB0000134,Carbohydrate,Citrate cycle (TCA cycle),Meta_47,Pathways in cancer,map05200,C00122,Human Diseases,Cancer: overview
+Fumaric Acid,HMDB0000134,Carbohydrate,Citrate cycle (TCA cycle),Meta_47,Renal cell carcinoma,map05211,C00122,Human Diseases,Cancer: specific types
+Fumaric Acid,HMDB0000134,Carbohydrate,Citrate cycle (TCA cycle),Meta_47,"Alanine, aspartate and glutamate metabolism",map00250,C00122,Metabolism,Amino acid metabolism
+Fumaric Acid,HMDB0000134,Carbohydrate,Citrate cycle (TCA cycle),Meta_47,Butanoate metabolism,map00650,C00122,Metabolism,Carbohydrate metabolism
+Fumaric Acid,HMDB0000134,Carbohydrate,Citrate cycle (TCA cycle),Meta_47,Tyrosine metabolism,map00350,C00122,Metabolism,Amino acid metabolism
+Fumaric Acid,HMDB0000134,Carbohydrate,Citrate cycle (TCA cycle),Meta_47,Nicotinate and nicotinamide metabolism,map00760,C00122,Metabolism,Metabolism of cofactors and vitamins
+Fumaric Acid,HMDB0000134,Carbohydrate,Citrate cycle (TCA cycle),Meta_47,Phenylalanine metabolism,map00360,C00122,Metabolism,Amino acid metabolism
+Fumaric Acid,HMDB0000134,Carbohydrate,Citrate cycle (TCA cycle),Meta_47,Glucagon signaling pathway,map04922,C00122,Organismal Systems,Endocrine system
+Fumaric Acid,HMDB0000134,Carbohydrate,Citrate cycle (TCA cycle),Meta_47,Central carbon metabolism in cancer,map05230,C00122,Human Diseases,Cancer: overview
+Fumaric Acid,HMDB0000134,Carbohydrate,Citrate cycle (TCA cycle),Meta_47,Citrate cycle (TCA cycle),map00020,C00122,Metabolism,Carbohydrate metabolism
+Fumaric Acid,HMDB0000134,Carbohydrate,Citrate cycle (TCA cycle),Meta_47,Pyruvate metabolism,map00620,C00122,Metabolism,Carbohydrate metabolism
+Fumaric Acid,HMDB0000134,Carbohydrate,Citrate cycle (TCA cycle),Meta_47,Oxidative phosphorylation,map00190,C00122,Metabolism,Energy metabolism
+Gamma-Aminobutyric Acid,HMDB0000112,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_35,Arginine and proline metabolism,map00330,C00334,Metabolism,Amino acid metabolism
+Gamma-Aminobutyric Acid,HMDB0000112,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_35,Butanoate metabolism,map00650,C00334,Metabolism,Carbohydrate metabolism
+Gamma-Aminobutyric Acid,HMDB0000112,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_35,"Alanine, aspartate and glutamate metabolism",map00250,C00334,Metabolism,Amino acid metabolism
+Gamma-Aminobutyric Acid,HMDB0000112,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_35,Nicotinate and nicotinamide metabolism,map00760,C00334,Metabolism,Metabolism of cofactors and vitamins
+Gamma-Aminobutyric Acid,HMDB0000112,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_35,cAMP signaling pathway,map04024,C00334,Environmental Information Processing,Signal transduction
+Gamma-Aminobutyric Acid,HMDB0000112,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_35,Synaptic vesicle cycle,map04721,C00334,Organismal Systems,Nervous system
+Gamma-Aminobutyric Acid,HMDB0000112,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_35,beta-Alanine metabolism,map00410,C00334,Metabolism,Metabolism of other amino acids
+Gamma-Aminobutyric Acid,HMDB0000112,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_35,Morphine addiction,map05032,C00334,Human Diseases,Substance dependence
+Gamma-Aminobutyric Acid,HMDB0000112,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_35,Taste transduction,map04742,C00334,Organismal Systems,Sensory system
+Gamma-Aminobutyric Acid,HMDB0000112,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_35,Estrogen signaling pathway,map04915,C00334,Organismal Systems,Endocrine system
+Gamma-Aminobutyric Acid,HMDB0000112,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_35,Nicotine addiction,map05033,C00334,Human Diseases,Substance dependence
+Gamma-Aminobutyric Acid,HMDB0000112,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_35,GABAergic synapse,map04727,C00334,Organismal Systems,Nervous system
+Gamma-Aminobutyric Acid,HMDB0000112,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_35,Retrograde endocannabinoid signaling,map04723,C00334,Organismal Systems,Nervous system
+Gamma-Aminobutyric Acid,HMDB0000112,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_35,Neuroactive ligand-receptor interaction,map04080,C00334,Environmental Information Processing,Signaling molecules and interaction
+Gamma-Aminobutyric Acid,HMDB0000112,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_35,GnRH secretion,map04929,C00334,Organismal Systems,Endocrine system
+Gamma-Glutamylalanine,HMDB0006248,Peptide,Gamma-glutamyl Amino Acid,Meta_312,Glutathione metabolism,map00480,C03740,Metabolism,Metabolism of other amino acids
+Gamma-Tocopherol/Beta-Tocopherol,HMDB0001492,Cofactors and Vitamins,Tocopherol Metabolism,Meta_505,Ubiquinone and other terpenoid-quinone biosynthesis,map00130,C02483,Metabolism,Metabolism of cofactors and vitamins
+Glucose,HMDB0000122,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_230,Pentose phosphate pathway,map00030,C00221,Metabolism,Carbohydrate metabolism
+Glucose,HMDB0000122,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_230,Glycolysis / Gluconeogenesis,map00010,C00221,Metabolism,Carbohydrate metabolism
+Glucuronate,HMDB0000127,Carbohydrate,Amino sugar and Nucleotide sugar Metabolism,Meta_271,Inositol phosphate metabolism,map00562,C00191,Metabolism,Carbohydrate metabolism
+Glucuronate,HMDB0000127,Carbohydrate,Amino sugar and Nucleotide sugar Metabolism,Meta_271,Pentose and glucuronate interconversions,map00040,C00191,Metabolism,Carbohydrate metabolism
+Glucuronate,HMDB0000127,Carbohydrate,Amino sugar and Nucleotide sugar Metabolism,Meta_271,Ascorbate and aldarate metabolism,map00053,C00191,Metabolism,Carbohydrate metabolism
+Glucuronate,HMDB0000127,Carbohydrate,Amino sugar and Nucleotide sugar Metabolism,Meta_271,Amino sugar and nucleotide sugar metabolism,map00520,C00191,Metabolism,Carbohydrate metabolism
+Glutarate (C5-DC),HMDB0000661,Lipid,"Fatty Acid, Dicarboxylate",Meta_95,Fatty acid degradation,map00071,C00489,Metabolism,Lipid metabolism
+Glutarate (C5-DC),HMDB0000661,Lipid,"Fatty Acid, Dicarboxylate",Meta_95,Lysine degradation,map00310,C00489,Metabolism,Amino acid metabolism
+Glyceric Acid,HMDB0000139,Carbohydrate,Pentose phosphate pathway,Meta_37,Glycerolipid metabolism,map00561,C00258,Metabolism,Lipid metabolism
+Glyceric Acid,HMDB0000139,Carbohydrate,Pentose phosphate pathway,Meta_37,"Glycine, serine and threonine metabolism",map00260,C00258,Metabolism,Amino acid metabolism
+Glyceric Acid,HMDB0000139,Carbohydrate,Pentose phosphate pathway,Meta_37,Pentose phosphate pathway,map00030,C00258,Metabolism,Carbohydrate metabolism
+Glyceric Acid,HMDB0000139,Carbohydrate,Pentose phosphate pathway,Meta_37,Glyoxylate and dicarboxylate metabolism,map00630,C00258,Metabolism,Carbohydrate metabolism
+Glycerol,HMDB0000131,Lipid,Glycerolipid and Phospholipid Metabolism,Meta_17,ABC transporters,map02010,C00116,Environmental Information Processing,Membrane transport
+Glycerol,HMDB0000131,Lipid,Glycerolipid and Phospholipid Metabolism,Meta_17,Retrograde endocannabinoid signaling,map04723,C00116,Organismal Systems,Nervous system
+Glycerol,HMDB0000131,Lipid,Glycerolipid and Phospholipid Metabolism,Meta_17,Regulation of lipolysis in adipocytes,map04923,C00116,Organismal Systems,Endocrine system
+Glycerol,HMDB0000131,Lipid,Glycerolipid and Phospholipid Metabolism,Meta_17,Glycerolipid metabolism,map00561,C00116,Metabolism,Lipid metabolism
+Glycerol,HMDB0000131,Lipid,Glycerolipid and Phospholipid Metabolism,Meta_17,Pentose and glucuronate interconversions,map00040,C00116,Metabolism,Carbohydrate metabolism
+Glycerol,HMDB0000131,Lipid,Glycerolipid and Phospholipid Metabolism,Meta_17,Thermogenesis,map04714,C00116,Organismal Systems,Environmental adaptation
+Glycerol,HMDB0000131,Lipid,Glycerolipid and Phospholipid Metabolism,Meta_17,Galactose metabolism,map00052,C00116,Metabolism,Carbohydrate metabolism
+Glycine,HMDB0000123,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_5,Aminoacyl-tRNA biosynthesis,map00970,C00037,Genetic Information Processing,Translation
+Glycine,HMDB0000123,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_5,ABC transporters,map02010,C00037,Environmental Information Processing,Membrane transport
+Glycine,HMDB0000123,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_5,Central carbon metabolism in cancer,map05230,C00037,Human Diseases,Cancer: overview
+Glycine,HMDB0000123,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_5,Glutathione metabolism,map00480,C00037,Metabolism,Metabolism of other amino acids
+Glycine,HMDB0000123,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_5,Neuroactive ligand-receptor interaction,map04080,C00037,Environmental Information Processing,Signaling molecules and interaction
+Glycine,HMDB0000123,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_5,Primary bile acid biosynthesis,map00120,C00037,Metabolism,Lipid metabolism
+Glycine,HMDB0000123,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_5,Synaptic vesicle cycle,map04721,C00037,Organismal Systems,Nervous system
+Glycine,HMDB0000123,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_5,Lipoic acid metabolism,map00785,C00037,Metabolism,Metabolism of cofactors and vitamins
+Glycine,HMDB0000123,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_5,Glyoxylate and dicarboxylate metabolism,map00630,C00037,Metabolism,Carbohydrate metabolism
+Glycine,HMDB0000123,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_5,Thiamine metabolism,map00730,C00037,Metabolism,Metabolism of cofactors and vitamins
+Glycine,HMDB0000123,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_5,Phosphonate and phosphinate metabolism,map00440,C00037,Metabolism,Metabolism of other amino acids
+Glycine,HMDB0000123,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_5,Mineral absorption,map04978,C00037,Organismal Systems,Digestive system
+Glycine,HMDB0000123,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_5,D-Amino acid metabolism,map00470,C00037,Metabolism,Metabolism of other amino acids
+Glycine,HMDB0000123,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_5,Purine metabolism,map00230,C00037,Metabolism,Nucleotide metabolism
+Glycine,HMDB0000123,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_5,Lysine degradation,map00310,C00037,Metabolism,Amino acid metabolism
+Glycine,HMDB0000123,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_5,"Glycine, serine and threonine metabolism",map00260,C00037,Metabolism,Amino acid metabolism
+Glycine,HMDB0000123,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_5,Protein digestion and absorption,map04974,C00037,Organismal Systems,Digestive system
+Glycochenodeoxycholate Glucuronide,HMDB0002579,Lipid,"Bile Acid, glucuronide",Meta_446,Ascorbate and aldarate metabolism,map00053,C03033,Metabolism,Carbohydrate metabolism
+Glycochenodeoxycholate Glucuronide,HMDB0002579,Lipid,"Bile Acid, glucuronide",Meta_446,Bile secretion,map04976,C03033,Organismal Systems,Digestive system
+Glycochenodeoxycholate Glucuronide,HMDB0002579,Lipid,"Bile Acid, glucuronide",Meta_446,Pentose and glucuronate interconversions,map00040,C03033,Metabolism,Carbohydrate metabolism
+Glycocholic Acid,HMDB0000138,Lipid,"Bile Acid, glycine conjungate",Meta_531,Cholesterol metabolism,map04979,C01921,Organismal Systems,Digestive system
+Glycocholic Acid,HMDB0000138,Lipid,"Bile Acid, glycine conjungate",Meta_531,Primary bile acid biosynthesis,map00120,C01921,Metabolism,Lipid metabolism
+Glycocholic Acid,HMDB0000138,Lipid,"Bile Acid, glycine conjungate",Meta_531,Bile secretion,map04976,C01921,Organismal Systems,Digestive system
+Glycolic Acid,HMDB0000115,Carbohydrate,Glyoxylate and dicarboxylate metabolism,Meta_4,Fatty acid degradation,map00071,C03547,Metabolism,Lipid metabolism
+Guanidinoacetic acid,HMDB0000128,Amino Acid,Creatine Metabolism,Meta_67,"Glycine, serine and threonine metabolism",map00260,C00581,Metabolism,Amino acid metabolism
+Guanidinoacetic acid,HMDB0000128,Amino Acid,Creatine Metabolism,Meta_67,Arginine and proline metabolism,map00330,C00581,Metabolism,Amino acid metabolism
+Hordenine,HMDB0004366,Xenobiotics,Natural Product/Food/Plant,Meta_195,Tyrosine metabolism,map00350,C06199,Metabolism,Amino acid metabolism
+"Hydroxy-N6,N6,N6-Trimethyllysine",HMDB0001422,Amino Acid,Lysine Metabolism,Meta_296,Lysine degradation,map00310,C01259,Metabolism,Amino acid metabolism
+Hydroxypyruvic Acid,HMDB0001352,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_30,"Glycine, serine and threonine metabolism",map00260,C00168,Metabolism,Amino acid metabolism
+Hydroxypyruvic Acid,HMDB0001352,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_30,Glyoxylate and dicarboxylate metabolism,map00630,C00168,Metabolism,Carbohydrate metabolism
+Hypoxanthine,HMDB0000157,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing",Meta_123,Purine metabolism,map00230,C00262,Metabolism,Nucleotide metabolism
+Indole-3-acetaldehyde,HMDB0001190,Amino Acid,Tryptophan Metabolism,Meta_171,Tryptophan metabolism,map00380,C00637,Metabolism,Amino acid metabolism
+Indoleacetic Acid,HMDB0000197,Amino Acid,Tryptophan Metabolism,Meta_223,Tryptophan metabolism,map00380,C00954,Metabolism,Amino acid metabolism
+Inosine,HMDB0000195,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing",Meta_392,ABC transporters,map02010,C00294,Environmental Information Processing,Membrane transport
+Inosine,HMDB0000195,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing",Meta_392,Purine metabolism,map00230,C00294,Metabolism,Nucleotide metabolism
+Isocitric Acid,HMDB0000094,Carbohydrate,Citrate cycle (TCA cycle),Meta_270,Central carbon metabolism in cancer,map05230,C00158,Human Diseases,Cancer: overview
+Isocitric Acid,HMDB0000094,Carbohydrate,Citrate cycle (TCA cycle),Meta_270,Glyoxylate and dicarboxylate metabolism,map00630,C00158,Metabolism,Carbohydrate metabolism
+Isocitric Acid,HMDB0000094,Carbohydrate,Citrate cycle (TCA cycle),Meta_270,"Alanine, aspartate and glutamate metabolism",map00250,C00158,Metabolism,Amino acid metabolism
+Isocitric Acid,HMDB0000094,Carbohydrate,Citrate cycle (TCA cycle),Meta_270,Glucagon signaling pathway,map04922,C00158,Organismal Systems,Endocrine system
+Isocitric Acid,HMDB0000094,Carbohydrate,Citrate cycle (TCA cycle),Meta_270,Citrate cycle (TCA cycle),map00020,C00158,Metabolism,Carbohydrate metabolism
+Isocitric Acid,HMDB0000094,Carbohydrate,Citrate cycle (TCA cycle),Meta_270,Taste transduction,map04742,C00158,Organismal Systems,Sensory system
+Isovaleric Acid,HMDB0000718,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_27,Protein digestion and absorption,map04974,C08262,Organismal Systems,Digestive system
+Ketoisovaleric Acid,HMDB0000019,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_49,"Valine, leucine and isoleucine biosynthesis",map00290,C00141,Metabolism,Amino acid metabolism
+Ketoisovaleric Acid,HMDB0000019,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_49,"Valine, leucine and isoleucine degradation",map00280,C00141,Metabolism,Amino acid metabolism
+Ketoisovaleric Acid,HMDB0000019,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_49,Lipoic acid metabolism,map00785,C00141,Metabolism,Metabolism of cofactors and vitamins
+Ketoisovaleric Acid,HMDB0000019,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_49,Pantothenate and CoA biosynthesis,map00770,C00141,Metabolism,Metabolism of cofactors and vitamins
+Kynurenate,HMDB0000715,Amino Acid,Tryptophan Metabolism,Meta_264,Tryptophan metabolism,map00380,C01717,Metabolism,Amino acid metabolism
+L-Alanine,HMDB0000161,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_16,Sulfur relay system,map04122,C00041,Genetic Information Processing,"Folding, sorting and degradation"
+L-Alanine,HMDB0000161,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_16,Mineral absorption,map04978,C00041,Organismal Systems,Digestive system
+L-Alanine,HMDB0000161,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_16,Selenocompound metabolism,map00450,C00041,Metabolism,Metabolism of other amino acids
+L-Alanine,HMDB0000161,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_16,Aminoacyl-tRNA biosynthesis,map00970,C00041,Genetic Information Processing,Translation
+L-Alanine,HMDB0000161,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_16,Taurine and hypotaurine metabolism,map00430,C00041,Metabolism,Metabolism of other amino acids
+L-Alanine,HMDB0000161,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_16,D-Amino acid metabolism,map00470,C00041,Metabolism,Metabolism of other amino acids
+L-Alanine,HMDB0000161,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_16,ABC transporters,map02010,C00041,Environmental Information Processing,Membrane transport
+L-Alanine,HMDB0000161,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_16,Cysteine and methionine metabolism,map00270,C00041,Metabolism,Amino acid metabolism
+L-Alanine,HMDB0000161,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_16,"Alanine, aspartate and glutamate metabolism",map00250,C00041,Metabolism,Amino acid metabolism
+L-Alanine,HMDB0000161,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_16,Central carbon metabolism in cancer,map05230,C00041,Human Diseases,Cancer: overview
+L-Alanine,HMDB0000161,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_16,Protein digestion and absorption,map04974,C00041,Organismal Systems,Digestive system
+L-Allothreonine,HMDB0004041,Amino Acid,Other Amino Acid Metabolism,Meta_189,"Glycine, serine and threonine metabolism",map00260,C05519,Metabolism,Amino acid metabolism
+L-Arginine,HMDB0000517,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_219,Pathways of neurodegeneration - multiple diseases,map05022,C00062,Human Diseases,Neurodegenerative disease
+L-Arginine,HMDB0000517,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_219,Aminoacyl-tRNA biosynthesis,map00970,C00062,Genetic Information Processing,Translation
+L-Arginine,HMDB0000517,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_219,Arginine and proline metabolism,map00330,C00062,Metabolism,Amino acid metabolism
+L-Arginine,HMDB0000517,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_219,Amoebiasis,map05146,C00062,Human Diseases,Infectious disease: parasitic
+L-Arginine,HMDB0000517,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_219,Amyotrophic lateral sclerosis,map05014,C00062,Human Diseases,Neurodegenerative disease
+L-Arginine,HMDB0000517,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_219,Central carbon metabolism in cancer,map05230,C00062,Human Diseases,Cancer: overview
+L-Arginine,HMDB0000517,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_219,Chagas disease,map05142,C00062,Human Diseases,Infectious disease: parasitic
+L-Arginine,HMDB0000517,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_219,mTOR signaling pathway,map04150,C00062,Environmental Information Processing,Signal transduction
+L-Arginine,HMDB0000517,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_219,Arginine biosynthesis,map00220,C00062,Metabolism,Amino acid metabolism
+L-Arginine,HMDB0000517,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_219,Protein digestion and absorption,map04974,C00062,Organismal Systems,Digestive system
+L-Arginine,HMDB0000517,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_219,ABC transporters,map02010,C00062,Environmental Information Processing,Membrane transport
+L-Arginine,HMDB0000517,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_219,D-Amino acid metabolism,map00470,C00062,Metabolism,Metabolism of other amino acids
+L-Asparagine,HMDB0000168,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_97,Protein digestion and absorption,map04974,C00152,Organismal Systems,Digestive system
+L-Asparagine,HMDB0000168,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_97,Central carbon metabolism in cancer,map05230,C00152,Human Diseases,Cancer: overview
+L-Asparagine,HMDB0000168,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_97,Mineral absorption,map04978,C00152,Organismal Systems,Digestive system
+L-Asparagine,HMDB0000168,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_97,"Alanine, aspartate and glutamate metabolism",map00250,C00152,Metabolism,Amino acid metabolism
+L-Asparagine,HMDB0000168,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_97,Aminoacyl-tRNA biosynthesis,map00970,C00152,Genetic Information Processing,Translation
+L-Aspartic Acid,HMDB0000191,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_103,"Alanine, aspartate and glutamate metabolism",map00250,C00049,Metabolism,Amino acid metabolism
+L-Aspartic Acid,HMDB0000191,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_103,Histidine metabolism,map00340,C00049,Metabolism,Amino acid metabolism
+L-Aspartic Acid,HMDB0000191,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_103,Central carbon metabolism in cancer,map05230,C00049,Human Diseases,Cancer: overview
+L-Aspartic Acid,HMDB0000191,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_103,"Glycine, serine and threonine metabolism",map00260,C00049,Metabolism,Amino acid metabolism
+L-Aspartic Acid,HMDB0000191,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_103,Protein digestion and absorption,map04974,C00049,Organismal Systems,Digestive system
+L-Aspartic Acid,HMDB0000191,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_103,ABC transporters,map02010,C00049,Environmental Information Processing,Membrane transport
+L-Aspartic Acid,HMDB0000191,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_103,beta-Alanine metabolism,map00410,C00049,Metabolism,Metabolism of other amino acids
+L-Aspartic Acid,HMDB0000191,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_103,Neuroactive ligand-receptor interaction,map04080,C00049,Environmental Information Processing,Signaling molecules and interaction
+L-Aspartic Acid,HMDB0000191,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_103,Arginine biosynthesis,map00220,C00049,Metabolism,Amino acid metabolism
+L-Aspartic Acid,HMDB0000191,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_103,Pantothenate and CoA biosynthesis,map00770,C00049,Metabolism,Metabolism of cofactors and vitamins
+L-Aspartic Acid,HMDB0000191,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_103,Aminoacyl-tRNA biosynthesis,map00970,C00049,Genetic Information Processing,Translation
+L-Aspartic Acid,HMDB0000191,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_103,D-Amino acid metabolism,map00470,C00049,Metabolism,Metabolism of other amino acids
+L-Aspartic Acid,HMDB0000191,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_103,Cysteine and methionine metabolism,map00270,C00049,Metabolism,Amino acid metabolism
+L-Aspartic Acid,HMDB0000191,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_103,Nicotinate and nicotinamide metabolism,map00760,C00049,Metabolism,Metabolism of cofactors and vitamins
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Taste transduction,map04742,C00025,Organismal Systems,Sensory system
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Amphetamine addiction,map05031,C00025,Human Diseases,Substance dependence
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Arginine biosynthesis,map00220,C00025,Metabolism,Amino acid metabolism
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Glyoxylate and dicarboxylate metabolism,map00630,C00025,Metabolism,Carbohydrate metabolism
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Gap junction,map04540,C00025,Cellular Processes,Cellular community - eukaryotes
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Amyotrophic lateral sclerosis,map05014,C00025,Human Diseases,Neurodegenerative disease
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Protein digestion and absorption,map04974,C00025,Organismal Systems,Digestive system
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Long-term potentiation,map04720,C00025,Organismal Systems,Nervous system
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Nitrogen metabolism,map00910,C00025,Metabolism,Energy metabolism
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,GABAergic synapse,map04727,C00025,Organismal Systems,Nervous system
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,ABC transporters,map02010,C00025,Environmental Information Processing,Membrane transport
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Histidine metabolism,map00340,C00025,Metabolism,Amino acid metabolism
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Taurine and hypotaurine metabolism,map00430,C00025,Metabolism,Metabolism of other amino acids
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Spinocerebellar ataxia,map05017,C00025,Human Diseases,Neurodegenerative disease
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Cocaine addiction,map05030,C00025,Human Diseases,Substance dependence
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,"Alanine, aspartate and glutamate metabolism",map00250,C00025,Metabolism,Amino acid metabolism
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Retrograde endocannabinoid signaling,map04723,C00025,Organismal Systems,Nervous system
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,D-Amino acid metabolism,map00470,C00025,Metabolism,Metabolism of other amino acids
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Aminoacyl-tRNA biosynthesis,map00970,C00025,Genetic Information Processing,Translation
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Arginine and proline metabolism,map00330,C00025,Metabolism,Amino acid metabolism
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Pathways of neurodegeneration - multiple diseases,map05022,C00025,Human Diseases,Neurodegenerative disease
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Nicotine addiction,map05033,C00025,Human Diseases,Substance dependence
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Synaptic vesicle cycle,map04721,C00025,Organismal Systems,Nervous system
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Circadian entrainment,map04713,C00025,Organismal Systems,Environmental adaptation
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Ferroptosis,map04216,C00025,Cellular Processes,Cell growth and death
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Phospholipase D signaling pathway,map04072,C00025,Environmental Information Processing,Signal transduction
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Central carbon metabolism in cancer,map05230,C00025,Human Diseases,Cancer: overview
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,FoxO signaling pathway,map04068,C00025,Environmental Information Processing,Signal transduction
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Long-term depression,map04730,C00025,Organismal Systems,Nervous system
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Butanoate metabolism,map00650,C00025,Metabolism,Carbohydrate metabolism
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Neuroactive ligand-receptor interaction,map04080,C00025,Environmental Information Processing,Signaling molecules and interaction
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Alcoholism,map05034,C00025,Human Diseases,Substance dependence
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,"Neomycin, kanamycin and gentamicin biosynthesis",map00524,C00025,Metabolism,Biosynthesis of other secondary metabolites
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Glutathione metabolism,map00480,C00025,Metabolism,Metabolism of other amino acids
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Glutamatergic synapse,map04724,C00025,Organismal Systems,Nervous system
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Huntington disease,map05016,C00025,Human Diseases,Neurodegenerative disease
+L-Glutamic Acid,HMDB0000148,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_148,Proximal tubule bicarbonate reclamation,map04964,C00025,Organismal Systems,Excretory system
+L-Glutamine,HMDB0000641,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_146,Glyoxylate and dicarboxylate metabolism,map00630,C00064,Metabolism,Carbohydrate metabolism
+L-Glutamine,HMDB0000641,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_146,Pyrimidine metabolism,map00240,C00064,Metabolism,Nucleotide metabolism
+L-Glutamine,HMDB0000641,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_146,"Alanine, aspartate and glutamate metabolism",map00250,C00064,Metabolism,Amino acid metabolism
+L-Glutamine,HMDB0000641,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_146,Nitrogen metabolism,map00910,C00064,Metabolism,Energy metabolism
+L-Glutamine,HMDB0000641,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_146,Proximal tubule bicarbonate reclamation,map04964,C00064,Organismal Systems,Excretory system
+L-Glutamine,HMDB0000641,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_146,ABC transporters,map02010,C00064,Environmental Information Processing,Membrane transport
+L-Glutamine,HMDB0000641,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_146,GABAergic synapse,map04727,C00064,Organismal Systems,Nervous system
+L-Glutamine,HMDB0000641,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_146,Glutamatergic synapse,map04724,C00064,Organismal Systems,Nervous system
+L-Glutamine,HMDB0000641,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_146,Arginine biosynthesis,map00220,C00064,Metabolism,Amino acid metabolism
+L-Glutamine,HMDB0000641,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_146,Mineral absorption,map04978,C00064,Organismal Systems,Digestive system
+L-Glutamine,HMDB0000641,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_146,Aminoacyl-tRNA biosynthesis,map00970,C00064,Genetic Information Processing,Translation
+L-Glutamine,HMDB0000641,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_146,Protein digestion and absorption,map04974,C00064,Organismal Systems,Digestive system
+L-Glutamine,HMDB0000641,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_146,Central carbon metabolism in cancer,map05230,C00064,Human Diseases,Cancer: overview
+L-Glutamine,HMDB0000641,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_146,Purine metabolism,map00230,C00064,Metabolism,Nucleotide metabolism
+L-Glutamine,HMDB0000641,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_146,D-Amino acid metabolism,map00470,C00064,Metabolism,Metabolism of other amino acids
+L-Glutamine,HMDB0000641,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_146,Vitamin B6 metabolism,map00750,C00064,Metabolism,Metabolism of cofactors and vitamins
+L-Histidine,HMDB0000177,Amino Acid,Histidine Metabolism,Meta_162,Central carbon metabolism in cancer,map05230,C00135,Human Diseases,Cancer: overview
+L-Histidine,HMDB0000177,Amino Acid,Histidine Metabolism,Meta_162,D-Amino acid metabolism,map00470,C00135,Metabolism,Metabolism of other amino acids
+L-Histidine,HMDB0000177,Amino Acid,Histidine Metabolism,Meta_162,beta-Alanine metabolism,map00410,C00135,Metabolism,Metabolism of other amino acids
+L-Histidine,HMDB0000177,Amino Acid,Histidine Metabolism,Meta_162,ABC transporters,map02010,C00135,Environmental Information Processing,Membrane transport
+L-Histidine,HMDB0000177,Amino Acid,Histidine Metabolism,Meta_162,Protein digestion and absorption,map04974,C00135,Organismal Systems,Digestive system
+L-Histidine,HMDB0000177,Amino Acid,Histidine Metabolism,Meta_162,Histidine metabolism,map00340,C00135,Metabolism,Amino acid metabolism
+L-Histidine,HMDB0000177,Amino Acid,Histidine Metabolism,Meta_162,Aminoacyl-tRNA biosynthesis,map00970,C00135,Genetic Information Processing,Translation
+L-Homoserine,HMDB0000719,Amino Acid,Other Amino Acid Metabolism,Meta_66,Cysteine and methionine metabolism,map00270,C00263,Metabolism,Amino acid metabolism
+L-Homoserine,HMDB0000719,Amino Acid,Other Amino Acid Metabolism,Meta_66,Sulfur metabolism,map00920,C00263,Metabolism,Energy metabolism
+L-Homoserine,HMDB0000719,Amino Acid,Other Amino Acid Metabolism,Meta_66,"Glycine, serine and threonine metabolism",map00260,C00263,Metabolism,Amino acid metabolism
+L-Isoleucine,HMDB0000172,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_107,Protein digestion and absorption,map04974,C00407,Organismal Systems,Digestive system
+L-Isoleucine,HMDB0000172,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_107,"Valine, leucine and isoleucine degradation",map00280,C00407,Metabolism,Amino acid metabolism
+L-Isoleucine,HMDB0000172,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_107,Central carbon metabolism in cancer,map05230,C00407,Human Diseases,Cancer: overview
+L-Isoleucine,HMDB0000172,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_107,"Valine, leucine and isoleucine biosynthesis",map00290,C00407,Metabolism,Amino acid metabolism
+L-Isoleucine,HMDB0000172,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_107,Mineral absorption,map04978,C00407,Organismal Systems,Digestive system
+L-Isoleucine,HMDB0000172,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_107,Shigellosis,map05131,C00407,Human Diseases,Infectious disease: bacterial
+L-Isoleucine,HMDB0000172,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_107,Aminoacyl-tRNA biosynthesis,map00970,C00407,Genetic Information Processing,Translation
+L-Isoleucine,HMDB0000172,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_107,ABC transporters,map02010,C00407,Environmental Information Processing,Membrane transport
+L-Kynurenine,HMDB0000684,Amino Acid,Tryptophan Metabolism,Meta_300,Tryptophan metabolism,map00380,C00328,Metabolism,Amino acid metabolism
+L-Kynurenine,HMDB0000684,Amino Acid,Tryptophan Metabolism,Meta_300,African trypanosomiasis,map05143,C00328,Human Diseases,Infectious disease: parasitic
+L-Leucine,HMDB0000687,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_106,"Valine, leucine and isoleucine biosynthesis",map00290,C00123,Metabolism,Amino acid metabolism
+L-Leucine,HMDB0000687,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_106,ABC transporters,map02010,C00123,Environmental Information Processing,Membrane transport
+L-Leucine,HMDB0000687,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_106,Protein digestion and absorption,map04974,C00123,Organismal Systems,Digestive system
+L-Leucine,HMDB0000687,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_106,Central carbon metabolism in cancer,map05230,C00123,Human Diseases,Cancer: overview
+L-Leucine,HMDB0000687,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_106,mTOR signaling pathway,map04150,C00123,Environmental Information Processing,Signal transduction
+L-Leucine,HMDB0000687,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_106,Mineral absorption,map04978,C00123,Organismal Systems,Digestive system
+L-Leucine,HMDB0000687,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_106,Aminoacyl-tRNA biosynthesis,map00970,C00123,Genetic Information Processing,Translation
+L-Leucine,HMDB0000687,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_106,Shigellosis,map05131,C00123,Human Diseases,Infectious disease: bacterial
+L-Leucine,HMDB0000687,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_106,"Valine, leucine and isoleucine degradation",map00280,C00123,Metabolism,Amino acid metabolism
+L-Lysine,HMDB0000182,Amino Acid,Lysine Metabolism,Meta_147,Protein digestion and absorption,map04974,C00047,Organismal Systems,Digestive system
+L-Lysine,HMDB0000182,Amino Acid,Lysine Metabolism,Meta_147,Aminoacyl-tRNA biosynthesis,map00970,C00047,Genetic Information Processing,Translation
+L-Lysine,HMDB0000182,Amino Acid,Lysine Metabolism,Meta_147,D-Amino acid metabolism,map00470,C00047,Metabolism,Metabolism of other amino acids
+L-Lysine,HMDB0000182,Amino Acid,Lysine Metabolism,Meta_147,ABC transporters,map02010,C00047,Environmental Information Processing,Membrane transport
+L-Lysine,HMDB0000182,Amino Acid,Lysine Metabolism,Meta_147,Lysine degradation,map00310,C00047,Metabolism,Amino acid metabolism
+L-Lysine,HMDB0000182,Amino Acid,Lysine Metabolism,Meta_147,Biotin metabolism,map00780,C00047,Metabolism,Metabolism of cofactors and vitamins
+L-Methionine,HMDB0000696,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_154,Protein digestion and absorption,map04974,C00073,Organismal Systems,Digestive system
+L-Methionine,HMDB0000696,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_154,Central carbon metabolism in cancer,map05230,C00073,Human Diseases,Cancer: overview
+L-Methionine,HMDB0000696,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_154,Mineral absorption,map04978,C00073,Organismal Systems,Digestive system
+L-Methionine,HMDB0000696,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_154,Antifolate resistance,map01523,C00073,Human Diseases,Drug resistance: antineoplastic
+L-Methionine,HMDB0000696,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_154,D-Amino acid metabolism,map00470,C00073,Metabolism,Metabolism of other amino acids
+L-Methionine,HMDB0000696,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_154,Aminoacyl-tRNA biosynthesis,map00970,C00073,Genetic Information Processing,Translation
+L-Methionine,HMDB0000696,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_154,Cysteine and methionine metabolism,map00270,C00073,Metabolism,Amino acid metabolism
+L-Phenylalanine,HMDB0000159,Amino Acid,Phenylalanine Metabolism,Meta_194,Phenylalanine metabolism,map00360,C00079,Metabolism,Amino acid metabolism
+L-Phenylalanine,HMDB0000159,Amino Acid,Phenylalanine Metabolism,Meta_194,D-Amino acid metabolism,map00470,C00079,Metabolism,Metabolism of other amino acids
+L-Phenylalanine,HMDB0000159,Amino Acid,Phenylalanine Metabolism,Meta_194,ABC transporters,map02010,C00079,Environmental Information Processing,Membrane transport
+L-Phenylalanine,HMDB0000159,Amino Acid,Phenylalanine Metabolism,Meta_194,Central carbon metabolism in cancer,map05230,C00079,Human Diseases,Cancer: overview
+L-Phenylalanine,HMDB0000159,Amino Acid,Phenylalanine Metabolism,Meta_194,"Phenylalanine, tyrosine and tryptophan biosynthesis",map00400,C00079,Metabolism,Amino acid metabolism
+L-Phenylalanine,HMDB0000159,Amino Acid,Phenylalanine Metabolism,Meta_194,Mineral absorption,map04978,C00079,Organismal Systems,Digestive system
+L-Phenylalanine,HMDB0000159,Amino Acid,Phenylalanine Metabolism,Meta_194,Protein digestion and absorption,map04974,C00079,Organismal Systems,Digestive system
+L-Phenylalanine,HMDB0000159,Amino Acid,Phenylalanine Metabolism,Meta_194,Aminoacyl-tRNA biosynthesis,map00970,C00079,Genetic Information Processing,Translation
+L-Pipecolic Acid,HMDB0000716,Amino Acid,Lysine Metabolism,Meta_92,Lysine degradation,map00310,C00408,Metabolism,Amino acid metabolism
+L-Proline,HMDB0000162,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_55,Aminoacyl-tRNA biosynthesis,map00970,C00148,Genetic Information Processing,Translation
+L-Proline,HMDB0000162,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_55,Central carbon metabolism in cancer,map05230,C00148,Human Diseases,Cancer: overview
+L-Proline,HMDB0000162,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_55,Mineral absorption,map04978,C00148,Organismal Systems,Digestive system
+L-Proline,HMDB0000162,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_55,ABC transporters,map02010,C00148,Environmental Information Processing,Membrane transport
+L-Proline,HMDB0000162,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_55,D-Amino acid metabolism,map00470,C00148,Metabolism,Metabolism of other amino acids
+L-Proline,HMDB0000162,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_55,Arginine and proline metabolism,map00330,C00148,Metabolism,Amino acid metabolism
+L-Proline,HMDB0000162,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_55,Protein digestion and absorption,map04974,C00148,Organismal Systems,Digestive system
+L-Serine,HMDB0000187,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_34,Cysteine and methionine metabolism,map00270,C00065,Metabolism,Amino acid metabolism
+L-Serine,HMDB0000187,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_34,Sulfur metabolism,map00920,C00065,Metabolism,Energy metabolism
+L-Serine,HMDB0000187,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_34,Mineral absorption,map04978,C00065,Organismal Systems,Digestive system
+L-Serine,HMDB0000187,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_34,Central carbon metabolism in cancer,map05230,C00065,Human Diseases,Cancer: overview
+L-Serine,HMDB0000187,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_34,D-Amino acid metabolism,map00470,C00065,Metabolism,Metabolism of other amino acids
+L-Serine,HMDB0000187,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_34,Protein digestion and absorption,map04974,C00065,Organismal Systems,Digestive system
+L-Serine,HMDB0000187,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_34,"Glycine, serine and threonine metabolism",map00260,C00065,Metabolism,Amino acid metabolism
+L-Serine,HMDB0000187,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_34,Aminoacyl-tRNA biosynthesis,map00970,C00065,Genetic Information Processing,Translation
+L-Serine,HMDB0000187,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_34,Sphingolipid metabolism,map00600,C00065,Metabolism,Lipid metabolism
+L-Serine,HMDB0000187,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_34,Glyoxylate and dicarboxylate metabolism,map00630,C00065,Metabolism,Carbohydrate metabolism
+L-Serine,HMDB0000187,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_34,Sphingolipid signaling pathway,map04071,C00065,Environmental Information Processing,Signal transduction
+L-Serine,HMDB0000187,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_34,Glycerophospholipid metabolism,map00564,C00065,Metabolism,Lipid metabolism
+L-Serine,HMDB0000187,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_34,ABC transporters,map02010,C00065,Environmental Information Processing,Membrane transport
+L-Threonine,HMDB0000167,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_73,Mineral absorption,map04978,C00188,Organismal Systems,Digestive system
+L-Threonine,HMDB0000167,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_73,Aminoacyl-tRNA biosynthesis,map00970,C00188,Genetic Information Processing,Translation
+L-Threonine,HMDB0000167,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_73,"Glycine, serine and threonine metabolism",map00260,C00188,Metabolism,Amino acid metabolism
+L-Threonine,HMDB0000167,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_73,"Valine, leucine and isoleucine biosynthesis",map00290,C00188,Metabolism,Amino acid metabolism
+L-Threonine,HMDB0000167,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_73,Protein digestion and absorption,map04974,C00188,Organismal Systems,Digestive system
+L-Threonine,HMDB0000167,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_73,D-Amino acid metabolism,map00470,C00188,Metabolism,Metabolism of other amino acids
+L-Threonine,HMDB0000167,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_73,ABC transporters,map02010,C00188,Environmental Information Processing,Membrane transport
+L-Tryptophan,HMDB0000929,Amino Acid,Tryptophan Metabolism,Meta_294,Mineral absorption,map04978,C00078,Organismal Systems,Digestive system
+L-Tryptophan,HMDB0000929,Amino Acid,Tryptophan Metabolism,Meta_294,"Phenylalanine, tyrosine and tryptophan biosynthesis",map00400,C00078,Metabolism,Amino acid metabolism
+L-Tryptophan,HMDB0000929,Amino Acid,Tryptophan Metabolism,Meta_294,Central carbon metabolism in cancer,map05230,C00078,Human Diseases,Cancer: overview
+L-Tryptophan,HMDB0000929,Amino Acid,Tryptophan Metabolism,Meta_294,African trypanosomiasis,map05143,C00078,Human Diseases,Infectious disease: parasitic
+L-Tryptophan,HMDB0000929,Amino Acid,Tryptophan Metabolism,Meta_294,Protein digestion and absorption,map04974,C00078,Organismal Systems,Digestive system
+L-Tryptophan,HMDB0000929,Amino Acid,Tryptophan Metabolism,Meta_294,"Glycine, serine and threonine metabolism",map00260,C00078,Metabolism,Amino acid metabolism
+L-Tryptophan,HMDB0000929,Amino Acid,Tryptophan Metabolism,Meta_294,Aminoacyl-tRNA biosynthesis,map00970,C00078,Genetic Information Processing,Translation
+L-Tryptophan,HMDB0000929,Amino Acid,Tryptophan Metabolism,Meta_294,Serotonergic synapse,map04726,C00078,Organismal Systems,Nervous system
+L-Tryptophan,HMDB0000929,Amino Acid,Tryptophan Metabolism,Meta_294,Tryptophan metabolism,map00380,C00078,Metabolism,Amino acid metabolism
+L-Tyrosine,HMDB0000158,Amino Acid,Tyrosine Metabolism,Meta_243,Dopaminergic synapse,map04728,C00082,Organismal Systems,Nervous system
+L-Tyrosine,HMDB0000158,Amino Acid,Tyrosine Metabolism,Meta_243,Thiamine metabolism,map00730,C00082,Metabolism,Metabolism of cofactors and vitamins
+L-Tyrosine,HMDB0000158,Amino Acid,Tyrosine Metabolism,Meta_243,Central carbon metabolism in cancer,map05230,C00082,Human Diseases,Cancer: overview
+L-Tyrosine,HMDB0000158,Amino Acid,Tyrosine Metabolism,Meta_243,Parkinson disease,map05012,C00082,Human Diseases,Neurodegenerative disease
+L-Tyrosine,HMDB0000158,Amino Acid,Tyrosine Metabolism,Meta_243,Aminoacyl-tRNA biosynthesis,map00970,C00082,Genetic Information Processing,Translation
+L-Tyrosine,HMDB0000158,Amino Acid,Tyrosine Metabolism,Meta_243,Prolactin signaling pathway,map04917,C00082,Organismal Systems,Endocrine system
+L-Tyrosine,HMDB0000158,Amino Acid,Tyrosine Metabolism,Meta_243,Protein digestion and absorption,map04974,C00082,Organismal Systems,Digestive system
+L-Tyrosine,HMDB0000158,Amino Acid,Tyrosine Metabolism,Meta_243,Phenylalanine metabolism,map00360,C00082,Metabolism,Amino acid metabolism
+L-Tyrosine,HMDB0000158,Amino Acid,Tyrosine Metabolism,Meta_243,"Phenylalanine, tyrosine and tryptophan biosynthesis",map00400,C00082,Metabolism,Amino acid metabolism
+L-Tyrosine,HMDB0000158,Amino Acid,Tyrosine Metabolism,Meta_243,Melanogenesis,map04916,C00082,Organismal Systems,Endocrine system
+L-Tyrosine,HMDB0000158,Amino Acid,Tyrosine Metabolism,Meta_243,Alcoholism,map05034,C00082,Human Diseases,Substance dependence
+L-Tyrosine,HMDB0000158,Amino Acid,Tyrosine Metabolism,Meta_243,Cocaine addiction,map05030,C00082,Human Diseases,Substance dependence
+L-Tyrosine,HMDB0000158,Amino Acid,Tyrosine Metabolism,Meta_243,Tyrosine metabolism,map00350,C00082,Metabolism,Amino acid metabolism
+L-Tyrosine,HMDB0000158,Amino Acid,Tyrosine Metabolism,Meta_243,Ubiquinone and other terpenoid-quinone biosynthesis,map00130,C00082,Metabolism,Metabolism of cofactors and vitamins
+L-Tyrosine,HMDB0000158,Amino Acid,Tyrosine Metabolism,Meta_243,Amphetamine addiction,map05031,C00082,Human Diseases,Substance dependence
+L-Valine,HMDB0000883,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_68,Protein digestion and absorption,map04974,C00183,Organismal Systems,Digestive system
+L-Valine,HMDB0000883,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_68,ABC transporters,map02010,C00183,Environmental Information Processing,Membrane transport
+L-Valine,HMDB0000883,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_68,Central carbon metabolism in cancer,map05230,C00183,Human Diseases,Cancer: overview
+L-Valine,HMDB0000883,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_68,"Valine, leucine and isoleucine biosynthesis",map00290,C00183,Metabolism,Amino acid metabolism
+L-Valine,HMDB0000883,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_68,Mineral absorption,map04978,C00183,Organismal Systems,Digestive system
+L-Valine,HMDB0000883,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_68,Pantothenate and CoA biosynthesis,map00770,C00183,Metabolism,Metabolism of cofactors and vitamins
+L-Valine,HMDB0000883,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_68,Aminoacyl-tRNA biosynthesis,map00970,C00183,Genetic Information Processing,Translation
+L-Valine,HMDB0000883,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",Meta_68,"Valine, leucine and isoleucine degradation",map00280,C00183,Metabolism,Amino acid metabolism
+Lactic Acid,HMDB0000190,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_14,Glucagon signaling pathway,map04922,C00186,Organismal Systems,Endocrine system
+Lactic Acid,HMDB0000190,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_14,Fructose and mannose metabolism,map00051,C00186,Metabolism,Carbohydrate metabolism
+Lactic Acid,HMDB0000190,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_14,Propanoate metabolism,map00640,C00186,Metabolism,Carbohydrate metabolism
+Lactic Acid,HMDB0000190,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_14,cAMP signaling pathway,map04024,C00186,Environmental Information Processing,Signal transduction
+Lactic Acid,HMDB0000190,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_14,HIF-1 signaling pathway,map04066,C00186,Environmental Information Processing,Signal transduction
+Lactic Acid,HMDB0000190,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_14,Glycolysis / Gluconeogenesis,map00010,C00186,Metabolism,Carbohydrate metabolism
+Lactic Acid,HMDB0000190,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_14,Central carbon metabolism in cancer,map05230,C00186,Human Diseases,Cancer: overview
+Lactic Acid,HMDB0000190,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_14,Pyruvate metabolism,map00620,C00186,Metabolism,Carbohydrate metabolism
+Linoleic Acid (C18:2n6),HMDB0000673,Lipid,Long Chain Fatty Acid,Meta_403,Biosynthesis of unsaturated fatty acids,map01040,C01595,Metabolism,Lipid metabolism
+Linoleic Acid (C18:2n6),HMDB0000673,Lipid,Long Chain Fatty Acid,Meta_403,Linoleic acid metabolism,map00591,C01595,Metabolism,Lipid metabolism
+LPC 15:0_sn1,HMDB0010381,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_543,Glycerophospholipid metabolism,map00564,C04230,Metabolism,Lipid metabolism
+LPC 15:0_sn1,HMDB0010381,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_543,Choline metabolism in cancer,map05231,C04230,Human Diseases,Cancer: overview
+LPC 16:0_sn1,HMDB0010382,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_553,Glycerophospholipid metabolism,map00564,C04230,Metabolism,Lipid metabolism
+LPC 16:0_sn1,HMDB0010382,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_553,Choline metabolism in cancer,map05231,C04230,Human Diseases,Cancer: overview
+LPC 16:1_sn1,HMDB0010383,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_550,Choline metabolism in cancer,map05231,C04230,Human Diseases,Cancer: overview
+LPC 16:1_sn1,HMDB0010383,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_550,Glycerophospholipid metabolism,map00564,C04230,Metabolism,Lipid metabolism
+LPC 17:0_(2),HMDB0012108,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_562,Glycerophospholipid metabolism,map00564,C04230,Metabolism,Lipid metabolism
+LPC 17:0_(2),HMDB0012108,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_562,Choline metabolism in cancer,map05231,C04230,Human Diseases,Cancer: overview
+LPC 18:0_sn1,HMDB0010384,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_570,Glycerophospholipid metabolism,map00564,C04230,Metabolism,Lipid metabolism
+LPC 18:0_sn1,HMDB0010384,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_570,Choline metabolism in cancer,map05231,C04230,Human Diseases,Cancer: overview
+LPC 18:3,HMDB0010387,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_565,Glycerophospholipid metabolism,map00564,C04230,Metabolism,Lipid metabolism
+LPC 18:3,HMDB0010387,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_565,Choline metabolism in cancer,map05231,C04230,Human Diseases,Cancer: overview
+LPC 20:0_sn1,HMDB0010390,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_585,Glycerophospholipid metabolism,map00564,C04230,Metabolism,Lipid metabolism
+LPC 20:0_sn1,HMDB0010390,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_585,Choline metabolism in cancer,map05231,C04230,Human Diseases,Cancer: overview
+LPC 20:1_sn1,HMDB0010391,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_584,Choline metabolism in cancer,map05231,C04230,Human Diseases,Cancer: overview
+LPC 20:1_sn1,HMDB0010391,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_584,Glycerophospholipid metabolism,map00564,C04230,Metabolism,Lipid metabolism
+LPC 20:1_sn2,HMDB0010391,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_583,Choline metabolism in cancer,map05231,C04230,Human Diseases,Cancer: overview
+LPC 20:1_sn2,HMDB0010391,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_583,Glycerophospholipid metabolism,map00564,C04230,Metabolism,Lipid metabolism
+LPC 20:2_sn1,HMDB0010392,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_582,Glycerophospholipid metabolism,map00564,C04230,Metabolism,Lipid metabolism
+LPC 20:2_sn1,HMDB0010392,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_582,Choline metabolism in cancer,map05231,C04230,Human Diseases,Cancer: overview
+LPC 20:2_sn2,HMDB0010392,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_581,Glycerophospholipid metabolism,map00564,C04230,Metabolism,Lipid metabolism
+LPC 20:2_sn2,HMDB0010392,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_581,Choline metabolism in cancer,map05231,C04230,Human Diseases,Cancer: overview
+LPC 20:4_sn1,HMDB0010395,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_578,Choline metabolism in cancer,map05231,C04230,Human Diseases,Cancer: overview
+LPC 20:4_sn1,HMDB0010395,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_578,Glycerophospholipid metabolism,map00564,C04230,Metabolism,Lipid metabolism
+LPC 20:5_sn1,HMDB0010397,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_577,Glycerophospholipid metabolism,map00564,C04230,Metabolism,Lipid metabolism
+LPC 20:5_sn1,HMDB0010397,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_577,Choline metabolism in cancer,map05231,C04230,Human Diseases,Cancer: overview
+LPC 22:4_sn1,HMDB0010401,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_588,Choline metabolism in cancer,map05231,C04230,Human Diseases,Cancer: overview
+LPC 22:4_sn1,HMDB0010401,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_588,Glycerophospholipid metabolism,map00564,C04230,Metabolism,Lipid metabolism
+LPC 22:5_(1),HMDB0010402,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_587,Choline metabolism in cancer,map05231,C04230,Human Diseases,Cancer: overview
+LPC 22:5_(1),HMDB0010402,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_587,Glycerophospholipid metabolism,map00564,C04230,Metabolism,Lipid metabolism
+LPC 22:6_sn1,HMDB0010404,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_586,Choline metabolism in cancer,map05231,C04230,Human Diseases,Cancer: overview
+LPC 22:6_sn1,HMDB0010404,Lipid,Glycerophospholipid (lysophosphatidylcholine),Meta_586,Glycerophospholipid metabolism,map00564,C04230,Metabolism,Lipid metabolism
+Lumichrome,HMDB0254199,Xenobiotics,Natural Product/Food/Plant,Meta_346,Riboflavin metabolism,map00740,C01727,Metabolism,Metabolism of cofactors and vitamins
+Maleic Acid (C4:1-DC),HMDB0000176,Lipid,"Fatty Acid, Dicarboxylate",Meta_48,Nicotinate and nicotinamide metabolism,map00760,C01384,Metabolism,Metabolism of cofactors and vitamins
+Maleic Acid (C4:1-DC),HMDB0000176,Lipid,"Fatty Acid, Dicarboxylate",Meta_48,Butanoate metabolism,map00650,C01384,Metabolism,Carbohydrate metabolism
+Maleic Acid (C4:1-DC),HMDB0000176,Lipid,"Fatty Acid, Dicarboxylate",Meta_48,Tyrosine metabolism,map00350,C01384,Metabolism,Amino acid metabolism
+Malic Acid,HMDB0000156,Carbohydrate,Citrate cycle (TCA cycle),Meta_108,Glucagon signaling pathway,map04922,C00149,Organismal Systems,Endocrine system
+Malic Acid,HMDB0000156,Carbohydrate,Citrate cycle (TCA cycle),Meta_108,Proximal tubule bicarbonate reclamation,map04964,C00149,Organismal Systems,Excretory system
+Malic Acid,HMDB0000156,Carbohydrate,Citrate cycle (TCA cycle),Meta_108,Taste transduction,map04742,C00149,Organismal Systems,Sensory system
+Malic Acid,HMDB0000156,Carbohydrate,Citrate cycle (TCA cycle),Meta_108,Central carbon metabolism in cancer,map05230,C00149,Human Diseases,Cancer: overview
+Malic Acid,HMDB0000156,Carbohydrate,Citrate cycle (TCA cycle),Meta_108,Glyoxylate and dicarboxylate metabolism,map00630,C00149,Metabolism,Carbohydrate metabolism
+Malic Acid,HMDB0000156,Carbohydrate,Citrate cycle (TCA cycle),Meta_108,Pathways in cancer,map05200,C00149,Human Diseases,Cancer: overview
+Malic Acid,HMDB0000156,Carbohydrate,Citrate cycle (TCA cycle),Meta_108,Citrate cycle (TCA cycle),map00020,C00149,Metabolism,Carbohydrate metabolism
+Malic Acid,HMDB0000156,Carbohydrate,Citrate cycle (TCA cycle),Meta_108,Pyruvate metabolism,map00620,C00149,Metabolism,Carbohydrate metabolism
+Malic Acid,HMDB0000156,Carbohydrate,Citrate cycle (TCA cycle),Meta_108,Renal cell carcinoma,map05211,C00149,Human Diseases,Cancer: specific types
+Mannitol/Sorbitol,HMDB0000247,Carbohydrate,Polysaccharides and Oligosaccharides,Meta_239,Galactose metabolism,map00052,C00794,Metabolism,Carbohydrate metabolism
+Mannitol/Sorbitol,HMDB0000247,Carbohydrate,Polysaccharides and Oligosaccharides,Meta_239,Diabetic cardiomyopathy,map05415,C00794,Human Diseases,Cardiovascular disease
+Mannitol/Sorbitol,HMDB0000247,Carbohydrate,Polysaccharides and Oligosaccharides,Meta_239,ABC transporters,map02010,C00794,Environmental Information Processing,Membrane transport
+Mannitol/Sorbitol,HMDB0000247,Carbohydrate,Polysaccharides and Oligosaccharides,Meta_239,Fructose and mannose metabolism,map00051,C00794,Metabolism,Carbohydrate metabolism
+Methylimidazoleacetic acid,HMDB0002820,Amino Acid,Histidine Metabolism,Meta_130,Histidine metabolism,map00340,C05828,Metabolism,Amino acid metabolism
+Myo-Inositol,HMDB0000211,Lipid,Inositol Metabolism,Meta_320,Ascorbate and aldarate metabolism,map00053,C00137,Metabolism,Carbohydrate metabolism
+Myo-Inositol,HMDB0000211,Lipid,Inositol Metabolism,Meta_320,Galactose metabolism,map00052,C00137,Metabolism,Carbohydrate metabolism
+Myo-Inositol,HMDB0000211,Lipid,Inositol Metabolism,Meta_320,Phosphatidylinositol signaling system,map04070,C00137,Environmental Information Processing,Signal transduction
+Myo-Inositol,HMDB0000211,Lipid,Inositol Metabolism,Meta_320,ABC transporters,map02010,C00137,Environmental Information Processing,Membrane transport
+Myo-Inositol,HMDB0000211,Lipid,Inositol Metabolism,Meta_320,Inositol phosphate metabolism,map00562,C00137,Metabolism,Carbohydrate metabolism
+Myristic Acid (C14:0),HMDB0000806,Lipid,Long Chain Fatty Acid,Meta_326,Fatty acid biosynthesis,map00061,C06424,Metabolism,Lipid metabolism
+N-Acetyl-L-Aspartic Acid,HMDB0000812,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_214,"Alanine, aspartate and glutamate metabolism",map00250,C01042,Metabolism,Amino acid metabolism
+N-Acetylglutamate,HMDB0001138,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_266,Arginine biosynthesis,map00220,C00624,Metabolism,Amino acid metabolism
+N-Acetylglutamate,HMDB0001138,Amino Acid,"Alanine, Aspartate and Glutamate Metabolism",Meta_266,D-Amino acid metabolism,map00470,C00624,Metabolism,Metabolism of other amino acids
+N-Alpha-Acetylornithine,HMDB0003357,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_218,Arginine biosynthesis,map00220,C00437,Metabolism,Amino acid metabolism
+N6-Acetyllysine,HMDB0000206,Amino Acid,Lysine Metabolism,Meta_260,Lysine degradation,map00310,C02727,Metabolism,Amino acid metabolism
+"N6,N6-Dimethyllysine",HMDB0013287,Amino Acid,Lysine Metabolism,Meta_220,Lysine degradation,map00310,C05545,Metabolism,Amino acid metabolism
+"N6,N6,N6-Trimethyllysine",HMDB0001325,Amino Acid,Lysine Metabolism,Meta_263,Lysine degradation,map00310,C03793,Metabolism,Amino acid metabolism
+Nicotinamide,HMDB0001406,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism,Meta_79,Vitamin digestion and absorption,map04977,C00153,Organismal Systems,Digestive system
+Nicotinamide,HMDB0001406,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism,Meta_79,Nicotinate and nicotinamide metabolism,map00760,C00153,Metabolism,Metabolism of cofactors and vitamins
+nicotine,HMDB0001934,Xenobiotics,Tobaco Metabolite,Meta_188,Metabolism of xenobiotics by cytochrome P450,map00980,C00745,Metabolism,Xenobiotics biodegradation and metabolism
+nicotine,HMDB0001934,Xenobiotics,Tobaco Metabolite,Meta_188,Thermogenesis,map04714,C00745,Organismal Systems,Environmental adaptation
+nicotine,HMDB0001934,Xenobiotics,Tobaco Metabolite,Meta_188,Nicotinate and nicotinamide metabolism,map00760,C00745,Metabolism,Metabolism of cofactors and vitamins
+nicotine,HMDB0001934,Xenobiotics,Tobaco Metabolite,Meta_188,Nicotine addiction,map05033,C00745,Human Diseases,Substance dependence
+nicotine,HMDB0001934,Xenobiotics,Tobaco Metabolite,Meta_188,Chemical carcinogenesis - receptor activation,map05207,C00745,Human Diseases,Cancer: overview
+Nicotinuric acid,HMDB0003269,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism,Meta_229,Nicotinate and nicotinamide metabolism,map00760,C05380,Metabolism,Metabolism of cofactors and vitamins
+Octanoic Acid (C8:0),HMDB0000482,Lipid,Medium Chain Fatty Acid,Meta_131,Lipoic acid metabolism,map00785,C06423,Metabolism,Metabolism of cofactors and vitamins
+Octanoic Acid (C8:0),HMDB0000482,Lipid,Medium Chain Fatty Acid,Meta_131,Fatty acid biosynthesis,map00061,C06423,Metabolism,Lipid metabolism
+Oleic Acid (C18:1),HMDB0000207,Lipid,Long Chain Fatty Acid,Meta_407,Biosynthesis of unsaturated fatty acids,map01040,C00712,Metabolism,Lipid metabolism
+Oleic Acid (C18:1),HMDB0000207,Lipid,Long Chain Fatty Acid,Meta_407,Fatty acid biosynthesis,map00061,C00712,Metabolism,Lipid metabolism
+Ornithine,HMDB0000214,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_111,Arginine and proline metabolism,map00330,C00077,Metabolism,Amino acid metabolism
+Ornithine,HMDB0000214,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_111,D-Amino acid metabolism,map00470,C00077,Metabolism,Metabolism of other amino acids
+Ornithine,HMDB0000214,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_111,Arginine biosynthesis,map00220,C00077,Metabolism,Amino acid metabolism
+Ornithine,HMDB0000214,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_111,Glutathione metabolism,map00480,C00077,Metabolism,Metabolism of other amino acids
+Ornithine,HMDB0000214,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_111,ABC transporters,map02010,C00077,Environmental Information Processing,Membrane transport
+Orotic acid,HMDB0000226,Nucleotide,"Pyrimidine Metabolism, Orotic acid containing",Meta_163,Pyrimidine metabolism,map00240,C00295,Metabolism,Nucleotide metabolism
+Oxalic Acid,HMDB0002329,Cofactors and Vitamins,Ascorbate and Aldarate Metabolism,Meta_13,Purine metabolism,map00230,C00209,Metabolism,Nucleotide metabolism
+Oxalic Acid,HMDB0002329,Cofactors and Vitamins,Ascorbate and Aldarate Metabolism,Meta_13,Glyoxylate and dicarboxylate metabolism,map00630,C00209,Metabolism,Carbohydrate metabolism
+Oxoadipic Acid,HMDB0000225,Amino Acid,Lysine Metabolism,Meta_183,Lysine degradation,map00310,C00322,Metabolism,Amino acid metabolism
+Oxoadipic Acid,HMDB0000225,Amino Acid,Lysine Metabolism,Meta_183,Tryptophan metabolism,map00380,C00322,Metabolism,Amino acid metabolism
+Oxoadipic Acid,HMDB0000225,Amino Acid,Lysine Metabolism,Meta_183,Lipoic acid metabolism,map00785,C00322,Metabolism,Metabolism of cofactors and vitamins
+Oxoglutaric Acid,HMDB0000208,Carbohydrate,Citrate cycle (TCA cycle),Meta_135,Taurine and hypotaurine metabolism,map00430,C00026,Metabolism,Metabolism of other amino acids
+Oxoglutaric Acid,HMDB0000208,Carbohydrate,Citrate cycle (TCA cycle),Meta_135,Central carbon metabolism in cancer,map05230,C00026,Human Diseases,Cancer: overview
+Oxoglutaric Acid,HMDB0000208,Carbohydrate,Citrate cycle (TCA cycle),Meta_135,HIF-1 signaling pathway,map04066,C00026,Environmental Information Processing,Signal transduction
+Oxoglutaric Acid,HMDB0000208,Carbohydrate,Citrate cycle (TCA cycle),Meta_135,Lysine degradation,map00310,C00026,Metabolism,Amino acid metabolism
+Oxoglutaric Acid,HMDB0000208,Carbohydrate,Citrate cycle (TCA cycle),Meta_135,"Alanine, aspartate and glutamate metabolism",map00250,C00026,Metabolism,Amino acid metabolism
+Oxoglutaric Acid,HMDB0000208,Carbohydrate,Citrate cycle (TCA cycle),Meta_135,Histidine metabolism,map00340,C00026,Metabolism,Amino acid metabolism
+Oxoglutaric Acid,HMDB0000208,Carbohydrate,Citrate cycle (TCA cycle),Meta_135,Proximal tubule bicarbonate reclamation,map04964,C00026,Organismal Systems,Excretory system
+Oxoglutaric Acid,HMDB0000208,Carbohydrate,Citrate cycle (TCA cycle),Meta_135,Butanoate metabolism,map00650,C00026,Metabolism,Carbohydrate metabolism
+Oxoglutaric Acid,HMDB0000208,Carbohydrate,Citrate cycle (TCA cycle),Meta_135,Ascorbate and aldarate metabolism,map00053,C00026,Metabolism,Carbohydrate metabolism
+Oxoglutaric Acid,HMDB0000208,Carbohydrate,Citrate cycle (TCA cycle),Meta_135,D-Amino acid metabolism,map00470,C00026,Metabolism,Metabolism of other amino acids
+Oxoglutaric Acid,HMDB0000208,Carbohydrate,Citrate cycle (TCA cycle),Meta_135,GABAergic synapse,map04727,C00026,Organismal Systems,Nervous system
+Oxoglutaric Acid,HMDB0000208,Carbohydrate,Citrate cycle (TCA cycle),Meta_135,Glucagon signaling pathway,map04922,C00026,Organismal Systems,Endocrine system
+Oxoglutaric Acid,HMDB0000208,Carbohydrate,Citrate cycle (TCA cycle),Meta_135,Citrate cycle (TCA cycle),map00020,C00026,Metabolism,Carbohydrate metabolism
+Oxoglutaric Acid,HMDB0000208,Carbohydrate,Citrate cycle (TCA cycle),Meta_135,Pentose and glucuronate interconversions,map00040,C00026,Metabolism,Carbohydrate metabolism
+Oxoglutaric Acid,HMDB0000208,Carbohydrate,Citrate cycle (TCA cycle),Meta_135,Arginine biosynthesis,map00220,C00026,Metabolism,Amino acid metabolism
+Oxoglutaric Acid,HMDB0000208,Carbohydrate,Citrate cycle (TCA cycle),Meta_135,Lipoic acid metabolism,map00785,C00026,Metabolism,Metabolism of cofactors and vitamins
+Oxoglutaric Acid,HMDB0000208,Carbohydrate,Citrate cycle (TCA cycle),Meta_135,Bile secretion,map04976,C00026,Organismal Systems,Digestive system
+Oxoglutaric Acid,HMDB0000208,Carbohydrate,Citrate cycle (TCA cycle),Meta_135,Glyoxylate and dicarboxylate metabolism,map00630,C00026,Metabolism,Carbohydrate metabolism
+P-Coumaric Acid,HMDB0002035,Amino Acid,Tyrosine Metabolism,Meta_191,Ubiquinone and other terpenoid-quinone biosynthesis,map00130,C00811,Metabolism,Metabolism of cofactors and vitamins
+P-Coumaric Acid,HMDB0002035,Amino Acid,Tyrosine Metabolism,Meta_191,Tyrosine metabolism,map00350,C00811,Metabolism,Amino acid metabolism
+P-Hydroxyphenylacetic Acid,HMDB0000020,Amino Acid,Phenylalanine Metabolism,Meta_156,Phenylalanine metabolism,map00360,C00642,Metabolism,Amino acid metabolism
+P-Hydroxyphenylacetic Acid,HMDB0000020,Amino Acid,Phenylalanine Metabolism,Meta_156,Tyrosine metabolism,map00350,C00642,Metabolism,Amino acid metabolism
+P-Octopamine,HMDB0004825,Xenobiotics,Natural Product/Food/Plant,Meta_120,Neuroactive ligand-receptor interaction,map04080,C04227,Environmental Information Processing,Signaling molecules and interaction
+Palmitic Acid (C16:0),HMDB0000220,Lipid,Long Chain Fatty Acid,Meta_368,Fatty acid biosynthesis,map00061,C00249,Metabolism,Lipid metabolism
+Palmitic Acid (C16:0),HMDB0000220,Lipid,Long Chain Fatty Acid,Meta_368,Fatty acid elongation,map00062,C00249,Metabolism,Lipid metabolism
+Palmitic Acid (C16:0),HMDB0000220,Lipid,Long Chain Fatty Acid,Meta_368,Fatty acid degradation,map00071,C00249,Metabolism,Lipid metabolism
+Palmitic Acid (C16:0),HMDB0000220,Lipid,Long Chain Fatty Acid,Meta_368,Biosynthesis of unsaturated fatty acids,map01040,C00249,Metabolism,Lipid metabolism
+Palmitoleic Acid (C16:1),HMDB0003229,Lipid,Long Chain Fatty Acid,Meta_366,Fatty acid biosynthesis,map00061,C08362,Metabolism,Lipid metabolism
+Palmitoyl ethanolamide,HMDB0002100,Lipid,Endocannabinoid (N-acylethanolamine),Meta_433,Neuroactive ligand-receptor interaction,map04080,C16512,Environmental Information Processing,Signaling molecules and interaction
+Palmitoylcarnitine,HMDB0000222,Lipid,Fatty Acid Metabolism (Acyl Carnitine),Meta_493,Fatty acid degradation,map00071,C02990,Metabolism,Lipid metabolism
+Pantothenate,HMDB0000210,Cofactors and Vitamins,Pantothenate and CoA Metabolism,Meta_314,beta-Alanine metabolism,map00410,C00864,Metabolism,Metabolism of other amino acids
+Pantothenate,HMDB0000210,Cofactors and Vitamins,Pantothenate and CoA Metabolism,Meta_314,Pantothenate and CoA biosynthesis,map00770,C00864,Metabolism,Metabolism of cofactors and vitamins
+Pantothenate,HMDB0000210,Cofactors and Vitamins,Pantothenate and CoA Metabolism,Meta_314,Vitamin digestion and absorption,map04977,C00864,Organismal Systems,Digestive system
+Paraxanthine,HMDB0001860,Xenobiotics,Xanthine Metabolism,Meta_241,Caffeine metabolism,map00232,C13747,Metabolism,Biosynthesis of other secondary metabolites
+PC 33:2|PC 15:0_18:2,HMDB0007940,Lipid,Glycerophospholipid (phosphatidylcholine),Meta_608,Retrograde endocannabinoid signaling,map04723,C00157,Organismal Systems,Nervous system
+PC 33:2|PC 15:0_18:2,HMDB0007940,Lipid,Glycerophospholipid (phosphatidylcholine),Meta_608,Choline metabolism in cancer,map05231,C00157,Human Diseases,Cancer: overview
+PC 33:2|PC 15:0_18:2,HMDB0007940,Lipid,Glycerophospholipid (phosphatidylcholine),Meta_608,Arachidonic acid metabolism,map00590,C00157,Metabolism,Lipid metabolism
+PC 33:2|PC 15:0_18:2,HMDB0007940,Lipid,Glycerophospholipid (phosphatidylcholine),Meta_608,Linoleic acid metabolism,map00591,C00157,Metabolism,Lipid metabolism
+PC 33:2|PC 15:0_18:2,HMDB0007940,Lipid,Glycerophospholipid (phosphatidylcholine),Meta_608,alpha-Linolenic acid metabolism,map00592,C00157,Metabolism,Lipid metabolism
+PC 33:2|PC 15:0_18:2,HMDB0007940,Lipid,Glycerophospholipid (phosphatidylcholine),Meta_608,Glycerophospholipid metabolism,map00564,C00157,Metabolism,Lipid metabolism
+PC 34:2|PC 16:1_18:1,HMDB0008005,Lipid,Glycerophospholipid (phosphatidylcholine),Meta_612,Arachidonic acid metabolism,map00590,C00157,Metabolism,Lipid metabolism
+PC 34:2|PC 16:1_18:1,HMDB0008005,Lipid,Glycerophospholipid (phosphatidylcholine),Meta_612,Choline metabolism in cancer,map05231,C00157,Human Diseases,Cancer: overview
+PC 34:2|PC 16:1_18:1,HMDB0008005,Lipid,Glycerophospholipid (phosphatidylcholine),Meta_612,Retrograde endocannabinoid signaling,map04723,C00157,Organismal Systems,Nervous system
+PC 34:2|PC 16:1_18:1,HMDB0008005,Lipid,Glycerophospholipid (phosphatidylcholine),Meta_612,Glycerophospholipid metabolism,map00564,C00157,Metabolism,Lipid metabolism
+PC 34:2|PC 16:1_18:1,HMDB0008005,Lipid,Glycerophospholipid (phosphatidylcholine),Meta_612,Linoleic acid metabolism,map00591,C00157,Metabolism,Lipid metabolism
+PC 34:2|PC 16:1_18:1,HMDB0008005,Lipid,Glycerophospholipid (phosphatidylcholine),Meta_612,alpha-Linolenic acid metabolism,map00592,C00157,Metabolism,Lipid metabolism
+PC 36:3|PC 16:0_20:3,HMDB0007981,Lipid,Glycerophospholipid (phosphatidylcholine),Meta_621,Choline metabolism in cancer,map05231,C00157,Human Diseases,Cancer: overview
+PC 36:3|PC 16:0_20:3,HMDB0007981,Lipid,Glycerophospholipid (phosphatidylcholine),Meta_621,Glycerophospholipid metabolism,map00564,C00157,Metabolism,Lipid metabolism
+PC 36:3|PC 16:0_20:3,HMDB0007981,Lipid,Glycerophospholipid (phosphatidylcholine),Meta_621,Retrograde endocannabinoid signaling,map04723,C00157,Organismal Systems,Nervous system
+PC 36:3|PC 16:0_20:3,HMDB0007981,Lipid,Glycerophospholipid (phosphatidylcholine),Meta_621,Linoleic acid metabolism,map00591,C00157,Metabolism,Lipid metabolism
+PC 36:3|PC 16:0_20:3,HMDB0007981,Lipid,Glycerophospholipid (phosphatidylcholine),Meta_621,Arachidonic acid metabolism,map00590,C00157,Metabolism,Lipid metabolism
+PC 36:3|PC 16:0_20:3,HMDB0007981,Lipid,Glycerophospholipid (phosphatidylcholine),Meta_621,alpha-Linolenic acid metabolism,map00592,C00157,Metabolism,Lipid metabolism
+Phenylacetaldehyde,HMDB0006236,Amino Acid,Phenylalanine Metabolism,Meta_76,Phenylalanine metabolism,map00360,C00601,Metabolism,Amino acid metabolism
+Phenylacetic Acid,HMDB0000209,Amino Acid,Phenylalanine Metabolism,Meta_117,Phenylalanine metabolism,map00360,C07086,Metabolism,Amino acid metabolism
+Phenylacetylglutamine,HMDB0006344,Peptide,Acetylated Peptides,Meta_387,Phenylalanine metabolism,map00360,C04148,Metabolism,Amino acid metabolism
+Phosphate,HMDB0001429,Energy,Oxidative Phosphorylation,Meta_22,Oxidative phosphorylation,map00190,C00009,Metabolism,Energy metabolism
+Phosphate,HMDB0001429,Energy,Oxidative Phosphorylation,Meta_22,Mineral absorption,map04978,C00009,Organismal Systems,Digestive system
+Phosphate,HMDB0001429,Energy,Oxidative Phosphorylation,Meta_22,"Parathyroid hormone synthesis, secretion and action",map04928,C00009,Organismal Systems,Endocrine system
+Phosphate,HMDB0001429,Energy,Oxidative Phosphorylation,Meta_22,Pathways of neurodegeneration - multiple diseases,map05022,C00009,Human Diseases,Neurodegenerative disease
+Phosphate,HMDB0001429,Energy,Oxidative Phosphorylation,Meta_22,Parkinson disease,map05012,C00009,Human Diseases,Neurodegenerative disease
+Phosphate,HMDB0001429,Energy,Oxidative Phosphorylation,Meta_22,ABC transporters,map02010,C00009,Environmental Information Processing,Membrane transport
+Picolinic Acid,HMDB0002243,Amino Acid,Tryptophan Metabolism,Meta_81,Tryptophan metabolism,map00380,C10164,Metabolism,Amino acid metabolism
+Pimelate (C7-DC),HMDB0000857,Lipid,"Fatty Acid, Dicarboxylate",Meta_176,Biotin metabolism,map00780,C02656,Metabolism,Metabolism of cofactors and vitamins
+Pregnanediol 3-O-glucuronide,HMDB0010318,Lipid,Pregnenolone Steroids,Meta_551,Bile secretion,map04976,C03033,Organismal Systems,Digestive system
+Pregnanediol 3-O-glucuronide,HMDB0010318,Lipid,Pregnenolone Steroids,Meta_551,Ascorbate and aldarate metabolism,map00053,C03033,Metabolism,Carbohydrate metabolism
+Pregnanediol 3-O-glucuronide,HMDB0010318,Lipid,Pregnenolone Steroids,Meta_551,Pentose and glucuronate interconversions,map00040,C03033,Metabolism,Carbohydrate metabolism
+Propanoic Acid,HMDB0000237,Carbohydrate,Propanoate Metabolism,Meta_3,Propanoate metabolism,map00640,C00163,Metabolism,Carbohydrate metabolism
+Propanoic Acid,HMDB0000237,Carbohydrate,Propanoate Metabolism,Meta_3,Nicotinate and nicotinamide metabolism,map00760,C00163,Metabolism,Metabolism of cofactors and vitamins
+Propanoic Acid,HMDB0000237,Carbohydrate,Propanoate Metabolism,Meta_3,Protein digestion and absorption,map04974,C00163,Organismal Systems,Digestive system
+Propanoic Acid,HMDB0000237,Carbohydrate,Propanoate Metabolism,Meta_3,Carbohydrate digestion and absorption,map04973,C00163,Organismal Systems,Digestive system
+Pseudouridine,HMDB0000767,Nucleotide,"Pyrimidine Metabolism, Uracil containing",Meta_344,Pyrimidine metabolism,map00240,C02067,Metabolism,Nucleotide metabolism
+Putrescine,HMDB0001414,Amino Acid,Polyamine Metabolism,Meta_15,Arginine and proline metabolism,map00330,C00134,Metabolism,Amino acid metabolism
+Putrescine,HMDB0001414,Amino Acid,Polyamine Metabolism,Meta_15,ABC transporters,map02010,C00134,Environmental Information Processing,Membrane transport
+Putrescine,HMDB0001414,Amino Acid,Polyamine Metabolism,Meta_15,D-Amino acid metabolism,map00470,C00134,Metabolism,Metabolism of other amino acids
+Putrescine,HMDB0001414,Amino Acid,Polyamine Metabolism,Meta_15,Protein digestion and absorption,map04974,C00134,Organismal Systems,Digestive system
+Putrescine,HMDB0001414,Amino Acid,Polyamine Metabolism,Meta_15,Glutathione metabolism,map00480,C00134,Metabolism,Metabolism of other amino acids
+Pyridoxamine,HMDB0001431,Cofactors and Vitamins,Vitamin B6 Metabolism,Meta_205,Vitamin digestion and absorption,map04977,C00534,Organismal Systems,Digestive system
+Pyridoxamine,HMDB0001431,Cofactors and Vitamins,Vitamin B6 Metabolism,Meta_205,Vitamin B6 metabolism,map00750,C00534,Metabolism,Metabolism of cofactors and vitamins
+Pyridoxate,HMDB0000017,Cofactors and Vitamins,Vitamin B6 Metabolism,Meta_242,Vitamin B6 metabolism,map00750,C00847,Metabolism,Metabolism of cofactors and vitamins
+Pyridoxine,HMDB0000239,Cofactors and Vitamins,Vitamin B6 Metabolism,Meta_207,Vitamin B6 metabolism,map00750,C00314,Metabolism,Metabolism of cofactors and vitamins
+Pyroglutamic Acid,HMDB0000267,Amino Acid,Glutathione Metabolism,Meta_89,Glutathione metabolism,map00480,C01879,Metabolism,Metabolism of other amino acids
+Pyrrole-2-Carboxylic Acid,HMDB0004230,Xenobiotics,Benzoate Metabolism,Meta_41,D-Amino acid metabolism,map00470,C05942,Metabolism,Metabolism of other amino acids
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Insulin secretion,map04911,C00022,Organismal Systems,Endocrine system
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Diabetic cardiomyopathy,map05415,C00022,Human Diseases,Cardiovascular disease
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,AMPK signaling pathway,map04152,C00022,Environmental Information Processing,Signal transduction
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Pantothenate and CoA biosynthesis,map00770,C00022,Metabolism,Metabolism of cofactors and vitamins
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Tyrosine metabolism,map00350,C00022,Metabolism,Amino acid metabolism
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Cysteine and methionine metabolism,map00270,C00022,Metabolism,Amino acid metabolism
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Pentose and glucuronate interconversions,map00040,C00022,Metabolism,Carbohydrate metabolism
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Terpenoid backbone biosynthesis,map00900,C00022,Metabolism,Metabolism of terpenoids and polyketides
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Citrate cycle (TCA cycle),map00020,C00022,Metabolism,Carbohydrate metabolism
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Glycolysis / Gluconeogenesis,map00010,C00022,Metabolism,Carbohydrate metabolism
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Central carbon metabolism in cancer,map05230,C00022,Human Diseases,Cancer: overview
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Pyruvate metabolism,map00620,C00022,Metabolism,Carbohydrate metabolism
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Butanoate metabolism,map00650,C00022,Metabolism,Carbohydrate metabolism
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Arginine and proline metabolism,map00330,C00022,Metabolism,Amino acid metabolism
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,HIF-1 signaling pathway,map04066,C00022,Environmental Information Processing,Signal transduction
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Type II diabetes mellitus,map04930,C00022,Human Diseases,Endocrine and metabolic disease
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Nicotinate and nicotinamide metabolism,map00760,C00022,Metabolism,Metabolism of cofactors and vitamins
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,"Glycine, serine and threonine metabolism",map00260,C00022,Metabolism,Amino acid metabolism
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Thiamine metabolism,map00730,C00022,Metabolism,Metabolism of cofactors and vitamins
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Taurine and hypotaurine metabolism,map00430,C00022,Metabolism,Metabolism of other amino acids
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,"Alanine, aspartate and glutamate metabolism",map00250,C00022,Metabolism,Amino acid metabolism
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Glyoxylate and dicarboxylate metabolism,map00630,C00022,Metabolism,Carbohydrate metabolism
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,D-Amino acid metabolism,map00470,C00022,Metabolism,Metabolism of other amino acids
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Lipoic acid metabolism,map00785,C00022,Metabolism,Metabolism of cofactors and vitamins
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Phenylalanine metabolism,map00360,C00022,Metabolism,Amino acid metabolism
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Ascorbate and aldarate metabolism,map00053,C00022,Metabolism,Carbohydrate metabolism
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Phosphonate and phosphinate metabolism,map00440,C00022,Metabolism,Metabolism of other amino acids
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,"Valine, leucine and isoleucine biosynthesis",map00290,C00022,Metabolism,Amino acid metabolism
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Insulin resistance,map04931,C00022,Human Diseases,Endocrine and metabolic disease
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Glucagon signaling pathway,map04922,C00022,Organismal Systems,Endocrine system
+Pyruvic Acid,HMDB0000243,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",Meta_11,Pentose phosphate pathway,map00030,C00022,Metabolism,Carbohydrate metabolism
+Sarcosine,HMDB0000271,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_12,"Glycine, serine and threonine metabolism",map00260,C00213,Metabolism,Amino acid metabolism
+Sarcosine,HMDB0000271,Amino Acid,"Glycine, Serine and Threonine Metabolism",Meta_12,Arginine and proline metabolism,map00330,C00213,Metabolism,Amino acid metabolism
+Shikimic Acid,HMDB0003070,Amino Acid,Shikimic acid pathway,Meta_215,"Phenylalanine, tyrosine and tryptophan biosynthesis",map00400,C00493,Metabolism,Amino acid metabolism
+Spermidine,HMDB0001257,Amino Acid,Polyamine Metabolism,Meta_143,beta-Alanine metabolism,map00410,C00315,Metabolism,Metabolism of other amino acids
+Spermidine,HMDB0001257,Amino Acid,Polyamine Metabolism,Meta_143,Bile secretion,map04976,C00315,Organismal Systems,Digestive system
+Spermidine,HMDB0001257,Amino Acid,Polyamine Metabolism,Meta_143,ABC transporters,map02010,C00315,Environmental Information Processing,Membrane transport
+Spermidine,HMDB0001257,Amino Acid,Polyamine Metabolism,Meta_143,Glutathione metabolism,map00480,C00315,Metabolism,Metabolism of other amino acids
+Spermidine,HMDB0001257,Amino Acid,Polyamine Metabolism,Meta_143,Arginine and proline metabolism,map00330,C00315,Metabolism,Amino acid metabolism
+Spermine,HMDB0001256,Amino Acid,Polyamine Metabolism,Meta_289,Glutathione metabolism,map00480,C00750,Metabolism,Metabolism of other amino acids
+Spermine,HMDB0001256,Amino Acid,Polyamine Metabolism,Meta_289,beta-Alanine metabolism,map00410,C00750,Metabolism,Metabolism of other amino acids
+Spermine,HMDB0001256,Amino Acid,Polyamine Metabolism,Meta_289,Bile secretion,map04976,C00750,Organismal Systems,Digestive system
+Spermine,HMDB0001256,Amino Acid,Polyamine Metabolism,Meta_289,Pantothenate and CoA biosynthesis,map00770,C00750,Metabolism,Metabolism of cofactors and vitamins
+Spermine,HMDB0001256,Amino Acid,Polyamine Metabolism,Meta_289,Arginine and proline metabolism,map00330,C00750,Metabolism,Amino acid metabolism
+Stearic Acid (C18:0),HMDB0000827,Lipid,Long Chain Fatty Acid,Meta_410,Fatty acid biosynthesis,map00061,C01530,Metabolism,Lipid metabolism
+Stearic Acid (C18:0),HMDB0000827,Lipid,Long Chain Fatty Acid,Meta_410,Biosynthesis of unsaturated fatty acids,map01040,C01530,Metabolism,Lipid metabolism
+Succinic Acid,HMDB0000254,Carbohydrate,Citrate cycle (TCA cycle),Meta_56,Butanoate metabolism,map00650,C00042,Metabolism,Carbohydrate metabolism
+Succinic Acid,HMDB0000254,Carbohydrate,Citrate cycle (TCA cycle),Meta_56,Tyrosine metabolism,map00350,C00042,Metabolism,Amino acid metabolism
+Succinic Acid,HMDB0000254,Carbohydrate,Citrate cycle (TCA cycle),Meta_56,Lysine degradation,map00310,C00042,Metabolism,Amino acid metabolism
+Succinic Acid,HMDB0000254,Carbohydrate,Citrate cycle (TCA cycle),Meta_56,Glyoxylate and dicarboxylate metabolism,map00630,C00042,Metabolism,Carbohydrate metabolism
+Succinic Acid,HMDB0000254,Carbohydrate,Citrate cycle (TCA cycle),Meta_56,Sulfur metabolism,map00920,C00042,Metabolism,Energy metabolism
+Succinic Acid,HMDB0000254,Carbohydrate,Citrate cycle (TCA cycle),Meta_56,Central carbon metabolism in cancer,map05230,C00042,Human Diseases,Cancer: overview
+Succinic Acid,HMDB0000254,Carbohydrate,Citrate cycle (TCA cycle),Meta_56,Phenylalanine metabolism,map00360,C00042,Metabolism,Amino acid metabolism
+Succinic Acid,HMDB0000254,Carbohydrate,Citrate cycle (TCA cycle),Meta_56,Pyruvate metabolism,map00620,C00042,Metabolism,Carbohydrate metabolism
+Succinic Acid,HMDB0000254,Carbohydrate,Citrate cycle (TCA cycle),Meta_56,Nicotinate and nicotinamide metabolism,map00760,C00042,Metabolism,Metabolism of cofactors and vitamins
+Succinic Acid,HMDB0000254,Carbohydrate,Citrate cycle (TCA cycle),Meta_56,Glucagon signaling pathway,map04922,C00042,Organismal Systems,Endocrine system
+Succinic Acid,HMDB0000254,Carbohydrate,Citrate cycle (TCA cycle),Meta_56,"Alanine, aspartate and glutamate metabolism",map00250,C00042,Metabolism,Amino acid metabolism
+Succinic Acid,HMDB0000254,Carbohydrate,Citrate cycle (TCA cycle),Meta_56,Citrate cycle (TCA cycle),map00020,C00042,Metabolism,Carbohydrate metabolism
+Succinic Acid,HMDB0000254,Carbohydrate,Citrate cycle (TCA cycle),Meta_56,Propanoate metabolism,map00640,C00042,Metabolism,Carbohydrate metabolism
+Succinic Acid,HMDB0000254,Carbohydrate,Citrate cycle (TCA cycle),Meta_56,GABAergic synapse,map04727,C00042,Organismal Systems,Nervous system
+Succinic Acid,HMDB0000254,Carbohydrate,Citrate cycle (TCA cycle),Meta_56,Oxidative phosphorylation,map00190,C00042,Metabolism,Energy metabolism
+Succinic Acid,HMDB0000254,Carbohydrate,Citrate cycle (TCA cycle),Meta_56,cAMP signaling pathway,map04024,C00042,Environmental Information Processing,Signal transduction
+Taurine,HMDB0000251,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_80,ABC transporters,map02010,C00245,Environmental Information Processing,Membrane transport
+Taurine,HMDB0000251,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_80,Primary bile acid biosynthesis,map00120,C00245,Metabolism,Lipid metabolism
+Taurine,HMDB0000251,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_80,Sulfur metabolism,map00920,C00245,Metabolism,Energy metabolism
+Taurine,HMDB0000251,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_80,Neuroactive ligand-receptor interaction,map04080,C00245,Environmental Information Processing,Signaling molecules and interaction
+Taurine,HMDB0000251,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",Meta_80,Taurine and hypotaurine metabolism,map00430,C00245,Metabolism,Metabolism of other amino acids
+Taurochenodeoxycholic Acid,HMDB0000951,Lipid,"Bile Acid, taurine conjungate",Meta_556,Cholesterol metabolism,map04979,C05465,Organismal Systems,Digestive system
+Taurochenodeoxycholic Acid,HMDB0000951,Lipid,"Bile Acid, taurine conjungate",Meta_556,Bile secretion,map04976,C05465,Organismal Systems,Digestive system
+Taurochenodeoxycholic Acid,HMDB0000951,Lipid,"Bile Acid, taurine conjungate",Meta_556,Primary bile acid biosynthesis,map00120,C05465,Metabolism,Lipid metabolism
+Taurocholic Acid,HMDB0000036,Lipid,"Bile Acid, taurine conjungate",Meta_564,Primary bile acid biosynthesis,map00120,C05122,Metabolism,Lipid metabolism
+Taurocholic Acid,HMDB0000036,Lipid,"Bile Acid, taurine conjungate",Meta_564,Cholesterol metabolism,map04979,C05122,Organismal Systems,Digestive system
+Taurocholic Acid,HMDB0000036,Lipid,"Bile Acid, taurine conjungate",Meta_564,Bile secretion,map04976,C05122,Organismal Systems,Digestive system
+Taurocholic Acid,HMDB0000036,Lipid,"Bile Acid, taurine conjungate",Meta_564,Taurine and hypotaurine metabolism,map00430,C05122,Metabolism,Metabolism of other amino acids
+Threonic Acid,HMDB0000943,Cofactors and Vitamins,Ascorbate and Aldarate Metabolism,Meta_114,Ascorbate and aldarate metabolism,map00053,C01620,Metabolism,Carbohydrate metabolism
+Thymine,HMDB0000262,Nucleotide,"Pyrimidine Metabolism, Thymine containing",Meta_82,Pyrimidine metabolism,map00240,C00178,Metabolism,Nucleotide metabolism
+Trans-Cinnamaldehyde,HMDB0003441,Xenobiotics,Natural Product/Food/Plant,Meta_110,Inflammatory mediator regulation of TRP channels,map04750,C00903,Organismal Systems,Sensory system
+Traumatic Acid,HMDB0000933,Lipid,"Fatty Acid, Dicarboxylate",Meta_325,alpha-Linolenic acid metabolism,map00592,C16308,Metabolism,Lipid metabolism
+Uracil,HMDB0000300,Nucleotide,"Pyrimidine Metabolism, Uracil containing",Meta_45,beta-Alanine metabolism,map00410,C00106,Metabolism,Metabolism of other amino acids
+Uracil,HMDB0000300,Nucleotide,"Pyrimidine Metabolism, Uracil containing",Meta_45,Pantothenate and CoA biosynthesis,map00770,C00106,Metabolism,Metabolism of cofactors and vitamins
+Uracil,HMDB0000300,Nucleotide,"Pyrimidine Metabolism, Uracil containing",Meta_45,Pyrimidine metabolism,map00240,C00106,Metabolism,Nucleotide metabolism
+Urate,HMDB0000289,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing",Meta_196,Purine metabolism,map00230,C00366,Metabolism,Nucleotide metabolism
+Urate,HMDB0000289,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing",Meta_196,Bile secretion,map04976,C00366,Organismal Systems,Digestive system
+Urea,HMDB0000294,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_1,Arginine and proline metabolism,map00330,C00086,Metabolism,Amino acid metabolism
+Urea,HMDB0000294,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_1,Purine metabolism,map00230,C00086,Metabolism,Nucleotide metabolism
+Urea,HMDB0000294,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_1,Epithelial cell signaling in Helicobacter pylori infection,map05120,C00086,Human Diseases,Infectious disease: bacterial
+Urea,HMDB0000294,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_1,Arginine biosynthesis,map00220,C00086,Metabolism,Amino acid metabolism
+Urea,HMDB0000294,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_1,Pyrimidine metabolism,map00240,C00086,Metabolism,Nucleotide metabolism
+Urea,HMDB0000294,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_1,Biotin metabolism,map00780,C00086,Metabolism,Metabolism of cofactors and vitamins
+Urea,HMDB0000294,Amino Acid,Urea cycle; Arginine and Proline Metabolism,Meta_1,ABC transporters,map02010,C00086,Environmental Information Processing,Membrane transport
+Uridine,HMDB0000296,Nucleotide,"Pyrimidine Metabolism, Uracil containing",Meta_345,ABC transporters,map02010,C00299,Environmental Information Processing,Membrane transport
+Uridine,HMDB0000296,Nucleotide,"Pyrimidine Metabolism, Uracil containing",Meta_345,Pyrimidine metabolism,map00240,C00299,Metabolism,Nucleotide metabolism
+Xanthine,HMDB0000292,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing",Meta_159,Caffeine metabolism,map00232,C00385,Metabolism,Biosynthesis of other secondary metabolites
+Xanthine,HMDB0000292,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing",Meta_159,Purine metabolism,map00230,C00385,Metabolism,Nucleotide metabolism
+Xanthosine,HMDB0000299,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing",Meta_413,Purine metabolism,map00230,C01762,Metabolism,Nucleotide metabolism
+Xanthosine,HMDB0000299,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing",Meta_413,ABC transporters,map02010,C01762,Environmental Information Processing,Membrane transport
+Xanthosine,HMDB0000299,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing",Meta_413,Caffeine metabolism,map00232,C01762,Metabolism,Biosynthesis of other secondary metabolites

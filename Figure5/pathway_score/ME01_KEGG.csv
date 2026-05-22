@@ -1,0 +1,25 @@
+Module,Gene,Terms,Pathway ID
+ME01,TYMP,Pyrimidine metabolism,hsa00240
+ME01,ITGB3,IgSF CAM signaling,hsa04517
+ME01,ITGA2B,IgSF CAM signaling,hsa04517
+ME01,ACTN1,IgSF CAM signaling,hsa04517
+ME01,VCL,IgSF CAM signaling,hsa04517
+ME01,MYL9,IgSF CAM signaling,hsa04517
+ME01,MYH9,IgSF CAM signaling,hsa04517
+ME01,ARPC4,IgSF CAM signaling,hsa04517
+ME01,RAP1A,IgSF CAM signaling,hsa04517
+ME01,RHOA,IgSF CAM signaling,hsa04517
+ME01,FLNA,IgSF CAM signaling,hsa04517
+ME01,ACTN1,Regulation of actin cytoskeleton,hsa04810
+ME01,ITGA2B,Regulation of actin cytoskeleton,hsa04810
+ME01,ITGB3,Regulation of actin cytoskeleton,hsa04810
+ME01,VCL,Regulation of actin cytoskeleton,hsa04810
+ME01,PFN1,Regulation of actin cytoskeleton,hsa04810
+ME01,GSN,Regulation of actin cytoskeleton,hsa04810
+ME01,ARPC4,Regulation of actin cytoskeleton,hsa04810
+ME01,MYH9,Regulation of actin cytoskeleton,hsa04810
+ME01,MYL9,Regulation of actin cytoskeleton,hsa04810
+ME01,RHOA,Regulation of actin cytoskeleton,hsa04810
+ME01,ROCK2,Regulation of actin cytoskeleton,hsa04810
+ME01,CRKL,Regulation of actin cytoskeleton,hsa04810
+ME01,ACTN4,Regulation of actin cytoskeleton,hsa04810

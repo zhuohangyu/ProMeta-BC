@@ -1,0 +1,51 @@
+Label,ID,Terms,Polygon,Type1,Significance,Log2FC
+P-Hydroxyphenylacetic Acid,n0,Cluster1,0,Metabolites,Down-regulated,-1.813089623
+Dodecanoic Acid (C12:0),n1,Cluster1,0,Metabolites,Not Significant,-0.259384868
+Dimethyl Sulfoxide,n2,Cluster2,0,Metabolites,Up-regulated,0.59202117
+Phenylacetaldehyde,n3,Cluster2,0,Metabolites,Not Significant,0.32230354
+LPC 22:6_sn1,n4,Cluster2,0,Metabolites,Not Significant,0.188492449
+Hypoxanthine,n5,Cluster3,0,Metabolites,Down-regulated,-1.521544407
+Spermine,n6,Cluster3,0,Metabolites,Down-regulated,-1.254579757
+Erythrose-4-Phosphate,n7,Cluster3,0,Metabolites,Not Significant,-0.242411456
+Spermidine,n8,Cluster3,0,Metabolites,Down-regulated,-0.844038424
+Nicotinuric acid,n9,Cluster3,0,Metabolites,Down-regulated,-0.562082126
+Xanthine,n10,Cluster3,0,Metabolites,Down-regulated,-0.744420004
+Glucuronate,n11,Cluster3,0,Metabolites,Not Significant,-0.114457151
+Deoxycholic Acid,n12,Cluster5,0,Metabolites,Not Significant,-0.297487739
+Chenodeoxycholic Acid,n13,Cluster6,0,Metabolites,Up-regulated,0.480251959
+9-HODE,n14,Cluster6,0,Metabolites,Not Significant,0.355658834
+3-Hydroxybutyric Acid,n15,Cluster7,0,Metabolites,Up-regulated,0.692207004
+Palmitoleic Acid (C16:1),n16,Cluster7,0,Metabolites,Up-regulated,0.668180003
+Alpha/Gamma-Linolenic Acid (C18:3n3 or n6),n17,Cluster7,0,Metabolites,Up-regulated,0.515055553
+Linoleic Acid (C18:2n6),n18,Cluster7,0,Metabolites,Not Significant,0.375403612
+Oleic Acid (C18:1),n19,Cluster7,0,Metabolites,Up-regulated,0.434487547
+Palmitoylcarnitine,n20,Cluster7,0,Metabolites,Not Significant,0.363438776
+Eicosadienoic Acid (C20:2n6),n21,Cluster7,0,Metabolites,Not Significant,0.189751743
+"Bilirubin (Z,Z)",n22,Cluster8,0,Metabolites,Not Significant,0.12778987
+Docosahexaenoic Acid (C22:6n3 DHA),n23,Cluster8,0,Metabolites,Not Significant,0.370027533
+Ornithine,n24,Cluster8,0,Metabolites,Not Significant,0.338774907
+Palmitic Acid (C16:0),n25,Cluster8,0,Metabolites,Not Significant,0.227119523
+LPC 20:1_sn1,n26,Cluster8,0,Metabolites,Not Significant,0.008800615
+Phenylacetylglutamine,n27,Cluster9,0,Metabolites,Not Significant,0.291502954
+L-Serine,n28,Cluster9,0,Metabolites,Up-regulated,0.449943639
+Orotic acid,n29,Cluster9,0,Metabolites,Up-regulated,0.972779325
+Isovaleric Acid,n30,Cluster9,0,Metabolites,Up-regulated,0.43203511
+Taurocholic Acid,n31,Cluster10,0,Metabolites,Not Significant,-0.294527278
+L-Pipecolic Acid,n32,Cluster10,0,Metabolites,Not Significant,-0.040905749
+Phenylalanine metabolism,n33,Pathway,4,Pathway,Pathway,
+Fatty acid biosynthesis,n35,Pathway,4,Pathway,Pathway,
+Sulfur metabolism,n36,Pathway,4,Pathway,Pathway,
+Choline metabolism in cancer,n37,Pathway,4,Pathway,Pathway,
+Glycerophospholipid metabolism,n38,Pathway,4,Pathway,Pathway,
+Purine metabolism,n39,Pathway,4,Pathway,Pathway,
+Glutathione metabolism,n40,Pathway,4,Pathway,Pathway,
+beta-Alanine metabolism,n41,Pathway,4,Pathway,Pathway,
+Bile secretion,n42,Pathway,4,Pathway,Pathway,
+Arginine and proline metabolism,n44,Pathway,4,Pathway,Pathway,
+ABC transporters,n48,Pathway,4,Pathway,Pathway,
+Primary bile acid biosynthesis,n55,Pathway,4,Pathway,Pathway,
+Linoleic acid metabolism,n57,Pathway,4,Pathway,Pathway,
+Biosynthesis of unsaturated fatty acids,n60,Pathway,4,Pathway,Pathway,
+Fatty acid degradation,n62,Pathway,4,Pathway,Pathway,
+D-Amino acid metabolism,n63,Pathway,4,Pathway,Pathway,
+Protein digestion and absorption,n69,Pathway,4,Pathway,Pathway,

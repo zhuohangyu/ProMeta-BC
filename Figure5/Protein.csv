@@ -1,0 +1,18 @@
+Module,Gene,Terms,Pathway ID
+ME01,TYMP,Pyrimidine metabolism,hsa00240
+ME09,PRKCB,Sphingolipid signaling pathway,hsa04071
+ME09,PRKCB,"Parathyroid hormone synthesis, secretion and action",hsa04928
+ME09,GNA13,Sphingolipid signaling pathway,hsa04071
+ME09,GNA13,"Parathyroid hormone synthesis, secretion and action",hsa04928
+ME10,PYGB,Starch and sucrose metabolism,hsa00500
+ME10,PYGB,Insulin signaling pathway,hsa04910
+ME10,HK1,Starch and sucrose metabolism,hsa00500
+ME10,HK1,Carbon metabolism,hsa01200
+ME10,HK1,Insulin signaling pathway,hsa04910
+ME01,ITGB3,IgSF CAM signaling,hsa04517
+ME01,ITGA2B,IgSF CAM signaling,hsa04517
+ME01,RHOA,IgSF CAM signaling,hsa04517
+ME01,MYH9,Regulation of actin cytoskeleton,hsa04810
+ME01,RHOA,Regulation of actin cytoskeleton,hsa04810
+ME01,ROCK2,Regulation of actin cytoskeleton,hsa04810
+ME01,ACTN4,Regulation of actin cytoskeleton,hsa04810

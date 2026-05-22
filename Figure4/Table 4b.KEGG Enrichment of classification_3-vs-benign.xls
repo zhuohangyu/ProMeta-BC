@@ -1,0 +1,20 @@
+Terms	mapping	Fold enrich	p.value	fdr	Metabolites
+Arachidonic acid metabolism	2	2	0.262	1	Arachidonic Acid (C20:4n6) ; 12-HETE
+Arginine and proline metabolism	4	1.43	0.298	1	Spermine ; Spermidine ; Urea ; Ornithine
+Arginine biosynthesis	2	0.91	0.685	1	Urea ; Ornithine
+Ascorbate and aldarate metabolism	2	1.43	0.425	1	Glucuronate ; Glycochenodeoxycholate Glucuronide
+beta-Alanine metabolism	2	1.11	0.568	1	Spermine ; Spermidine
+Biosynthesis of unsaturated fatty acids	11	4.58	6.15e-08	1.17e-06	Eicosapentaenoic Acid (C20:5n3 EPA) ; Arachidonic Acid (C20:4n6) ; Alpha/Gamma-Linolenic Acid (C18:3n3 or n6) ; Palmitic Acid (C16:0) ; Docosapentaenoic Acid (C22:5n6 DPA) ; Eicosadienoic Acid (C20:2n6) ; Linoleic Acid (C18:2n6) ; Docosahexaenoic Acid (C22:6n3 DHA) ; Eicosatrienoic Acid (C20:3n3) ; Stearic Acid (C18:0) ; Oleic Acid (C18:1)
+Butanoate metabolism	2	1	0.63	1	Maleic Acid (C4:1-DC) ; 3-Hydroxybutyric Acid
+D-Amino acid metabolism	2	0.53	0.927	1	Ornithine ; L-Serine
+Fatty acid biosynthesis	6	3.75	0.000942	0.017	Dodecanoic Acid (C12:0) ; Myristic Acid (C14:0) ; Palmitic Acid (C16:0) ; Stearic Acid (C18:0) ; Oleic Acid (C18:1) ; Palmitoleic Acid (C16:1)
+Fatty acid degradation	2	2.5	0.179	1	Palmitoylcarnitine ; Palmitic Acid (C16:0)
+Glutathione metabolism	3	1.88	0.2	1	Spermine ; Ornithine ; Spermidine
+Glycerophospholipid metabolism	3	0.65	0.882	1	LPC 20:0_sn1 ; L-Serine ; LPC 20:1_sn1
+Glyoxylate and dicarboxylate metabolism	2	0.71	0.812	1	L-Serine ; Malic Acid
+Linoleic acid metabolism	3	1.88	0.2	1	Eicosatrienoic Acid (C20:3n3) ; Arachidonic Acid (C20:4n6) ; Linoleic Acid (C18:2n6)
+Nicotinate and nicotinamide metabolism	2	0.91	0.685	1	Maleic Acid (C4:1-DC) ; Nicotinuric acid
+Pentose and glucuronate interconversions	2	1.67	0.345	1	Glucuronate ; Glycochenodeoxycholate Glucuronide
+Purine metabolism	3	1.5	0.321	1	Hypoxanthine ; Urea ; Urate
+Pyrimidine metabolism	2	0.91	0.685	1	Orotic acid ; Urea
+Tryptophan metabolism	5	2.08	0.0664	1	Indoleacetic Acid ; Kynurenate ; L-Kynurenine ; Anthranilate ; 3-Indoleacetonitrile

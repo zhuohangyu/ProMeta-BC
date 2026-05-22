@@ -1,0 +1,18 @@
+Cluster,Metabolite,Terms
+Cluster_1_benign,P-Hydroxyphenylacetic Acid,Phenylalanine metabolism
+Cluster_1_benign,P-Hydroxyphenylacetic Acid,Tyrosine metabolism
+Cluster_1_benign,"2,6-dihydroxybenzoic acid",Other Function
+Cluster_1_benign,Erucamide,Other Function
+Cluster_1_benign,Decanoylcarnitine,Other Function
+Cluster_1_benign,Octanoylcarnitine,Other Function
+Cluster_1_benign,Decenoylcarnitine,Other Function
+Cluster_1_benign,2-Aminocaprylic acid,Other Function
+Cluster_1_benign,Dodecanoic Acid (C12:0),Fatty acid biosynthesis
+Cluster_9_benign,Phenylacetylglutamine,Phenylalanine metabolism
+Cluster_9_benign,3-Indoxyl Sulfate,Other Function
+Cluster_9_benign,L-Serine,Sphingolipid signaling pathway
+Cluster_9_benign,L-Serine,Glycerophospholipid metabolism
+Cluster_9_benign,Orotic acid,Pyrimidine metabolism
+Cluster_9_benign,N-Acetyltryptophan,Other Function
+Cluster_9_benign,Isovaleric Acid,Protein digestion and absorption
+Cluster_9_benign,Azelate (C9-DC),Other Function

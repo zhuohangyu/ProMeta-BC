@@ -1,0 +1,12 @@
+Test,Metric,Value
+Repeated 5-fold CV (panel-locked),Mean AUC (true labels),0.950
+Repeated 5-fold CV (panel-locked),SD,0.030
+Repeated 5-fold CV (panel-locked),95% empirical CI,"[0.883, 0.992]"
+Repeated 5-fold CV (panel-locked),N folds,50
+Permutation test (fold-internal RFE),Observed CV AUC (true labels),0.931
+Permutation test (fold-internal RFE),Null mean,0.500
+Permutation test (fold-internal RFE),Null SD,0.044
+Permutation test (fold-internal RFE),Delta (observed - null mean),+0.431
+Permutation test (fold-internal RFE),Delta in SDs of null,9.9
+Permutation test (fold-internal RFE),Empirical p,0.0099
+Permutation test (fold-internal RFE),N permutations,100

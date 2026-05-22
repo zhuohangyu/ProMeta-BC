@@ -1,0 +1,12 @@
+Module,Gene,Terms,Pathway ID
+ME10,PDE5A,NA,NA
+ME10,ENDOD1,NA,NA
+ME10,PYGB,Starch and sucrose metabolism,hsa00500
+ME10,PYGB,Insulin signaling pathway,hsa04910
+ME10,HK1,Starch and sucrose metabolism,hsa00500
+ME10,HK1,Carbon metabolism,hsa01200
+ME10,HK1,Insulin signaling pathway,hsa04910
+ME10,MDH2,Global and overview maps,hsa01200
+ME10,KPNB1,NA,NA
+ME10,GCSAML,NA,NA
+ME10,TMEM109,NA,NA

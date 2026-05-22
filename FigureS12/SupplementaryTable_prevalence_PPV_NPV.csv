@@ -1,0 +1,11 @@
+Scenario,Prevalence_%,PPV_%,PPV_CI_low_%,PPV_CI_high_%,NPV_%,NPV_CI_low_%,NPV_CI_high_%
+Population screening (0.1%),0.1,0.73,0.39,1.79,99.99,99.99,100.0
+Asymptomatic high-risk (0.5%),0.5,3.56,1.94,8.36,99.97,99.94,99.99
+General population subset (1%),1.0,6.91,3.82,15.5,99.95,99.88,99.99
+BI-RADS 3 / mild clinical (5%),5.0,27.9,17.16,48.87,99.72,99.38,99.95
+BI-RADS 4A — low suspicion (10%),10.0,44.97,30.42,66.86,99.41,98.69,99.89
+BI-RADS 4B — moderate (20%),20.0,64.77,49.59,81.95,98.68,97.1,99.75
+BI-RADS 4B / 4C boundary (30%),30.0,75.91,62.78,88.61,97.75,95.13,99.57
+BI-RADS 4C / pre-op ALN (40%),40.0,83.06,72.4,92.37,96.54,92.63,99.33
+Clinically suspicious (50%),50.0,88.03,79.74,94.78,94.9,89.33,99.0
+Cohort 3 observed (66.5%),66.46,93.58,88.63,97.3,90.38,80.87,98.04

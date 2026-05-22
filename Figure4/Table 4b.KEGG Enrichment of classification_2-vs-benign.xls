@@ -1,0 +1,19 @@
+Terms	mapping	Fold enrich	p.value	fdr	Metabolites
+Arachidonic acid metabolism	2	2.11	0.241	1	12-HETE ; Arachidonic Acid (C20:4n6)
+Ascorbate and aldarate metabolism	3	2.26	0.128	1	Glycochenodeoxycholate Glucuronide ; Threonic Acid ; Glucuronate
+beta-Alanine metabolism	2	1.17	0.537	1	Pantothenate ; Uracil
+Biosynthesis of unsaturated fatty acids	11	4.82	3.24e-08	5.83e-07	Docosapentaenoic Acid (C22:5n6 DPA) ; Docosahexaenoic Acid (C22:6n3 DHA) ; Eicosapentaenoic Acid (C20:5n3 EPA) ; Palmitic Acid (C16:0) ; Arachidonic Acid (C20:4n6) ; Alpha/Gamma-Linolenic Acid (C18:3n3 or n6) ; Arachidate (C20:0) ; Stearic Acid (C18:0) ; Eicosadienoic Acid (C20:2n6) ; Eicosatrienoic Acid (C20:3n3) ; Linoleic Acid (C18:2n6)
+Cysteine and methionine metabolism	2	1.05	0.599	1	L-Serine ; Alpha-Ketobutyrate
+Fatty acid biosynthesis	4	2.63	0.0441	0.75	Stearic Acid (C18:0) ; Palmitic Acid (C16:0) ; Palmitoleic Acid (C16:1) ; Myristic Acid (C14:0)
+Glycerophospholipid metabolism	4	0.92	0.675	1	LPC 20:5_sn1 ; LPC 22:5_(1) ; LPC 22:6_sn1 ; L-Serine
+Glycine, serine and threonine metabolism	3	1.05	0.57	1	L-Serine ; Alpha-Ketobutyrate ; Creatine
+Glyoxylate and dicarboxylate metabolism	2	0.75	0.786	1	Oxalic Acid ; L-Serine
+Linoleic acid metabolism	3	1.97	0.178	1	Eicosatrienoic Acid (C20:3n3) ; Arachidonic Acid (C20:4n6) ; Linoleic Acid (C18:2n6)
+Pantothenate and CoA biosynthesis	2	1.17	0.537	1	Uracil ; Pantothenate
+Pentose and glucuronate interconversions	2	1.75	0.32	1	Glucuronate ; Glycochenodeoxycholate Glucuronide
+Primary bile acid biosynthesis	2	1.32	0.469	1	Taurocholic Acid ; Glycocholic Acid
+Propanoate metabolism	2	2.11	0.241	1	2-Hydroxybutyric Acid ; Alpha-Ketobutyrate
+Purine metabolism	2	1.05	0.599	1	Oxalic Acid ; Hypoxanthine
+Pyrimidine metabolism	2	0.96	0.655	1	Uracil ; Uridine
+Sulfur metabolism	2	2.11	0.241	1	L-Serine ; Dimethyl Sulfoxide
+Tryptophan metabolism	4	1.75	0.174	1	3-Indoleacetonitrile ; Indoleacetic Acid ; L-Kynurenine ; Anthranilate

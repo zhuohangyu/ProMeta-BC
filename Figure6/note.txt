@@ -1,0 +1,3 @@
+coh1 corresponds to Cohort 2 in the paper.
+coh2 corresponds to Cohort 3 in the paper.
+coh3 corresponds to an external validation cohort consisting of nine patients

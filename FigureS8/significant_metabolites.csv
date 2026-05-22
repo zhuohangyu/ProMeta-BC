@@ -1,0 +1,41 @@
+Metabolite,Log2FC,P_value,VIP_Score,Significance
+Orotic acid,1.017022235,1.72E-26,2.735889648,Up-regulated
+Dimethyl Sulfoxide,1.335137715,2.87E-16,2.02050463,Up-regulated
+Decenoylcarnitine,-0.70520991,4.75E-14,2.401314276,Down-regulated
+Maleic Acid/Fumaric acid,0.511104601,4.75E-13,1.963236033,Up-regulated
+Isovaleric Acid,0.573130989,1.92E-12,1.950765017,Up-regulated
+"2,6-dihydroxybenzoic acid",-1.034474889,3.19E-12,2.021502312,Down-regulated
+2-Hydroxybutyric Acid,0.708624376,5.19E-12,1.794982609,Up-regulated
+P-Hydroxyphenylacetic Acid,-2.322487868,8.12E-12,2.155932119,Down-regulated
+Azelate (C9-DC),0.626555687,1.14E-11,1.9589775,Up-regulated
+Eicosanedioate (C20-DC),-0.688316096,2.77E-11,1.995772787,Down-regulated
+2-hydroxy-3-methylvalerate,0.424989785,4.34E-10,1.964634477,Up-regulated
+Decadienoylcarnitine,-0.470584744,1.99E-09,1.897876669,Down-regulated
+Phenyllactic Acid,0.403937846,2.92E-09,1.787422171,Up-regulated
+Gallic acid,-0.804972103,1.39E-08,1.486533688,Down-regulated
+2-HYDROXYOCTANOIC ACID,-0.686877216,1.56E-08,1.87293284,Down-regulated
+PE 40:7|PE 18:1_22:6,-0.438786806,2.31E-08,1.403415101,Down-regulated
+Met-Leu,-0.420378609,4.71E-08,1.465820844,Down-regulated
+Acisoga,0.475119495,1.08E-07,1.234478195,Up-regulated
+Eicosenoic Acid (C20:1),0.59341371,5.55E-07,1.444453948,Up-regulated
+9-HODE,0.488445371,8.19E-07,1.304072881,Up-regulated
+Octanoylcarnitine,-0.507448492,1.58E-06,1.716973482,Down-regulated
+8-HETE,0.799989363,2.23E-06,1.394977127,Up-regulated
+Erythrose-4-Phosphate,0.5366754,2.31E-06,0.998128962,Up-regulated
+N-Acetylglycine,-0.565218459,4.32E-06,1.277421171,Down-regulated
+Phthalic acid,0.757049154,5.07E-06,1.218706146,Up-regulated
+4-Hydroxyhippuric Acid,-1.039377121,5.22E-06,1.248175687,Down-regulated
+L-Serine,0.473331446,1.03E-05,1.252470111,Up-regulated
+Palmitoleic Acid (C16:1),0.592169116,1.82E-05,1.148800032,Up-regulated
+4-Hydroxybenzaldehyde,-0.685923918,0.000116603,1.102323866,Down-regulated
+3-Hydroxybutyric Acid,0.728831053,0.000122731,0.982702398,Up-regulated
+Hippuric Acid,-0.697520709,0.00013668,1.072692019,Down-regulated
+Oleic Acid (C18:1),0.461733601,0.000160438,1.058474016,Up-regulated
+Deoxycholic Acid,-0.572050095,0.00037023,0.681640588,Down-regulated
+Decanoylcarnitine,-0.407464011,0.00040047,1.244715963,Down-regulated
+Octanoylglycine,0.436857527,0.001003948,0.955659775,Up-regulated
+Phenylacetylglutamine,0.41239663,0.002242616,0.875504845,Up-regulated
+Nicotinuric acid,-0.57473443,0.005486394,0.794046317,Down-regulated
+Glycocholic Acid,-0.501307276,0.013264048,0.689567254,Down-regulated
+Glycodeoxycholic Acid,-0.426045557,0.023679591,0.36956472,Down-regulated
+Taurocholic Acid,-0.453416258,0.031818271,0.755778118,Down-regulated

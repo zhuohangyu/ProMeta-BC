@@ -1,0 +1,23 @@
+Terms	mapping	Fold enrich	p.value	fdr	Metabolites
+alpha-Linolenic acid metabolism	2	1.86	0.293	1	PC 36:3|PC 16:0_20:3 ; Alpha/Gamma-Linolenic Acid (C18:3n3 or n6)
+Arachidonic acid metabolism	3	2.79	0.0676	1	12-HETE ; Arachidonic Acid (C20:4n6) ; PC 36:3|PC 16:0_20:3
+Arginine and proline metabolism	2	0.66	0.847	1	Spermidine ; Spermine
+Ascorbate and aldarate metabolism	2	1.33	0.466	1	Threonic Acid ; Glycochenodeoxycholate Glucuronide
+beta-Alanine metabolism	2	1.03	0.613	1	Spermine ; Spermidine
+Biosynthesis of unsaturated fatty acids	10	3.88	3.99e-06	8.78e-05	Eicosadienoic Acid (C20:2n6) ; Alpha/Gamma-Linolenic Acid (C18:3n3 or n6) ; Eicosapentaenoic Acid (C20:5n3 EPA) ; Eicosatrienoic Acid (C20:3n3) ; Arachidonic Acid (C20:4n6) ; Stearic Acid (C18:0) ; Palmitic Acid (C16:0) ; Arachidate (C20:0) ; Docosapentaenoic Acid (C22:5n6 DPA) ; Linoleic Acid (C18:2n6)
+Butanoate metabolism	2	0.93	0.674	1	3-Hydroxybutyric Acid ; Maleic Acid (C4:1-DC)
+Citrate cycle (TCA cycle)	2	1.16	0.543	1	Malic Acid ; Aconitic Acid
+Cysteine and methionine metabolism	2	0.93	0.674	1	L-Homoserine ; L-Serine
+Fatty acid biosynthesis	4	2.33	0.0671	1	Palmitic Acid (C16:0) ; Myristic Acid (C14:0) ; Palmitoleic Acid (C16:1) ; Stearic Acid (C18:0)
+Fatty acid degradation	2	2.33	0.203	1	Palmitic Acid (C16:0) ; Palmitoylcarnitine
+Glutathione metabolism	3	1.74	0.234	1	Spermine ; Spermidine ; Pyroglutamic Acid
+Glycerophospholipid metabolism	2	0.4	0.978	1	PC 36:3|PC 16:0_20:3 ; L-Serine
+Glycine, serine and threonine metabolism	2	0.62	0.875	1	L-Homoserine ; L-Serine
+Glyoxylate and dicarboxylate metabolism	4	1.33	0.352	1	Oxalic Acid ; Malic Acid ; Aconitic Acid ; L-Serine
+Linoleic acid metabolism	4	2.33	0.0671	1	Eicosatrienoic Acid (C20:3n3) ; Linoleic Acid (C18:2n6) ; Arachidonic Acid (C20:4n6) ; PC 36:3|PC 16:0_20:3
+Phenylalanine, tyrosine and tryptophan biosynthesis	3	2.33	0.115	1	Anthranilate ; Shikimic Acid ; Erythrose-4-Phosphate
+Purine metabolism	3	1.4	0.367	1	Oxalic Acid ; Xanthine ; Hypoxanthine
+Pyrimidine metabolism	2	0.85	0.728	1	Orotic acid ; Thymine
+Sulfur metabolism	3	2.79	0.0676	1	Taurine ; L-Serine ; L-Homoserine
+Tryptophan metabolism	4	1.55	0.242	1	5-Hydroxy-L-Tryptophan ; L-Kynurenine ; Anthranilate ; 3-Indoleacetonitrile
+Tyrosine metabolism	2	1.03	0.613	1	P-Hydroxyphenylacetic Acid ; Maleic Acid (C4:1-DC)

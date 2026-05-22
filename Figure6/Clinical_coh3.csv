@@ -1,0 +1,10 @@
+Sample,Label,Clinical stage,Molecular Classification,T,N,M,Age,BMI,Cohort
+Y02025-SY,Malignant,0,1,is,0,0,41,21.33333333,Cohort_4
+Y02128-SY,Malignant,0,1,is,0,0,54,24.24391847,Cohort_4
+Y02073-SY,Malignant,IIA,1,1,0,0,67,21.9138057,Cohort_4
+Y02040-D,Malignant,IA,2,1,0,0,52,24.43518667,Cohort_4
+Y02103,Malignant,0,1,is,0,0,38,25.390625,Cohort_4
+Y02034,Malignant,0,2,is,0,0,58,,Cohort_4
+Y02070,Malignant,0,1,is,0,0,63,22.89281998,Cohort_4
+Y02096,Malignant,IA,1,1,0,0,69,25.39656781,Cohort_4
+Y02077,Malignant,0,1,is,0,0,70,,Cohort_4

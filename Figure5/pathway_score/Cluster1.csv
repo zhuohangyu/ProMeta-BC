@@ -1,0 +1,10 @@
+Cluster,Metabolite,Terms,Pathway ID
+Cluster_1_benign,P-Hydroxyphenylacetic Acid,Phenylalanine metabolism,map00360
+Cluster_1_benign,P-Hydroxyphenylacetic Acid,Tyrosine metabolism,map00350
+Cluster_1_benign,"2,6-dihydroxybenzoic acid",NA,NA
+Cluster_1_benign,Erucamide,NA,NA
+Cluster_1_benign,Decanoylcarnitine,NA,NA
+Cluster_1_benign,Octanoylcarnitine,NA,NA
+Cluster_1_benign,Decenoylcarnitine,NA,NA
+Cluster_1_benign,2-Aminocaprylic acid,NA,NA
+Cluster_1_benign,Dodecanoic Acid (C12:0),Fatty acid biosynthesis,map00061
